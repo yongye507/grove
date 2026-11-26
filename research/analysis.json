@@ -1,0 +1,952 @@
+[
+ {
+  "slug": "alltrails",
+  "name": "AllTrails: Hike, Bike & Run",
+  "seller": "AllTrails, Inc.",
+  "price": "Free",
+  "rating": 4.89,
+  "ratingCount": 1043640,
+  "genres": [
+   "Health & Fitness",
+   "Travel"
+  ],
+  "lastUpdate": "2026-11-18",
+  "released": "2010-12-17",
+  "reviewsFetched": 50,
+  "lowShare": 0.38,
+  "themes": {
+   "price/subscription": 8,
+   "update/regression": 2,
+   "sync/account/data-loss": 2,
+   "ads": 2
+  },
+  "samples": {
+   "price/subscription": [
+    "[1★ 2026-11-09 v26.11.11] Disappointed! — I’ve been using all trails for years, I have had the upgraded version for years. But lately, it keeps stopping on me during my hikes, less than a mile in. I’m so frustrated, I’m gonna be canceling the subscription, heading to Strava.",
+    "[1★ 2026-11-09 v26.11.11] Hate how it cost so much — My husband bought it and it won’t let me sign in to his account so we can share since he’s already paying but cause he used Apple ID it won’t let me log in so I’m deleting plus sometimes the app takes him off course and he has gotten lost 2x using ur app",
+    "[1★ 2026-11-08 v26.11.11] Too expensive, too many ads — For an app that gets all of its content for free from users, it’s quite expensive at $80 per year. And if you don’t pay, you are continually nagged by popups asking you to subscribe."
+   ],
+   "ads": [
+    "[1★ 2026-11-08 v26.11.11] Too expensive, too many ads — For an app that gets all of its content for free from users, it’s quite expensive at $80 per year. And if you don’t pay, you are continually nagged by popups asking you to subscribe."
+   ],
+   "update/regression": [
+    "[1★ 2026-11-05 v26.11.10] Doesn’t support iPhone Duo — App still has yet to be updated to support iPhone Duo or even iOS 27 so it doesn’t even fill the screen."
+   ],
+   "sync/account/data-loss": [
+    "[1★ 2026-11-09 v26.11.11] Hate how it cost so much — My husband bought it and it won’t let me sign in to his account so we can share since he’s already paying but cause he used Apple ID it won’t let me log in so I’m deleting plus sometimes the app takes him off course and he has gotten lost 2x using ur app",
+    "[1★ 2026-11-07 v26.11.11] Avoid — App gone downhill, pictures are hard to navigate. Can’t use online anymore just spams to switch to app. Have to log in to see anything. Boo. Trash."
+   ]
+  }
+ },
+ {
+  "slug": "boohee",
+  "name": "薄荷健康-AI减肥健身轻断食体重管理平台",
+  "seller": "BOOHEE TECHNOLOGY",
+  "price": "免费",
+  "rating": 4.73,
+  "ratingCount": 120421,
+  "genres": [
+   "健康健美",
+   "生活"
+  ],
+  "lastUpdate": "2026-11-16",
+  "released": "2011-08-30",
+  "reviewsFetched": 50,
+  "lowShare": 0.78,
+  "themes": {
+   "ads": 12,
+   "price/subscription": 11,
+   "bugs/crash": 8,
+   "missing-feature": 3,
+   "sync/account/data-loss": 3,
+   "update/regression": 2,
+   "accuracy": 2,
+   "support": 2
+  },
+  "samples": {
+   "price/subscription": [
+    "[1★ 2026-11-04 v15.10.2] 广告太多了 — 首先作为薄荷健康的老用户，最开始用的时候这些会员功能都没有限制，但是现在多了会员还多了很多广告，特别是一打开APP就会自动跳转到各种各样的平台，作为老用户非常的失望。",
+    "[1★ 2026-11-04 v15.10.2] 千万别开会员 — 说实话，这玩意会员一文不值，现在就是个买减肥针的地方。我记得我之前减肥就开过年会员，其实会员的地方就没咋个用，这一久又不得不减肥了，一冲动又开了个季卡，开完就后悔了，忘记以前开的会员真没啥大用，就是你在他的平台买减肥针，人家也会送，但是吧，减肥针我的建议是最好去医院做完检查医生给你开了，你再买同种的，不建议直接买。",
+    "[2★ 2026-10-29 v15.10.1] 开屏广告爆炸多 — 减脂期开了3个月的会员，每天拍照记饮食，小组件还蛮方便，会员一到期还没反应过来，开屏广告直接给轰炸晕了，不仅多且眼花缭乱看不到退出口…直接转战阿福了"
+   ],
+   "ads": [
+    "[1★ 2026-11-04 v15.10.2] 广告太多了 — 首先作为薄荷健康的老用户，最开始用的时候这些会员功能都没有限制，但是现在多了会员还多了很多广告，特别是一打开APP就会自动跳转到各种各样的平台，作为老用户非常的失望。",
+    "[2★ 2026-10-29 v15.10.1] 开屏广告爆炸多 — 减脂期开了3个月的会员，每天拍照记饮食，小组件还蛮方便，会员一到期还没反应过来，开屏广告直接给轰炸晕了，不仅多且眼花缭乱看不到退出口…直接转战阿福了",
+    "[1★ 2026-10-25 v15.9.2] 摇一摇广告比数据库做的认真 — 数据库一堆对着营养表都能错的数据，纠错反馈又没任何作用；拍照识图稍微复杂一点就是在乱套数据；干脆关了会员又天天给我弹摇一摇广告，你自己摇去吧"
+   ],
+   "bugs/crash": [
+    "[1★ 2026-10-24 v15.9.2] 卡到爆炸 — 无论好网与差网，免费或vip，你是否都愿意用薄荷记录饮食\n我的妈呀，就是想要搜索一个简单东西，比如说鸡蛋他给你跳出一大堆不相关的东西，你必须搜索再退出搜索再退出这么好几次，他才会给你一个鸡蛋的选项。然后每次点进去app想记录都得等他加载半天，累死个人，千万别用薄荷记录吃的，别充钱",
+    "[2★ 2026-10-14 v15.9.2] TLS错误安全连接失败 — iPhone iOS，薄荷健康APP间歇性TLS错误导致安全连接失败。可以短暂加载页面几秒，页面卡顿、点击延迟，随后报错。已经尝试卸载重装、重启手机、关闭VPN、检查系统时间。蜂窝流量/WiFi都出现同样故障"
+   ],
+   "update/regression": [
+    "[1★ 2026-11-04 v15.10.2] 千万别开会员 — 说实话，这玩意会员一文不值，现在就是个买减肥针的地方。我记得我之前减肥就开过年会员，其实会员的地方就没咋个用，这一久又不得不减肥了，一冲动又开了个季卡，开完就后悔了，忘记以前开的会员真没啥大用，就是你在他的平台买减肥针，人家也会送，但是吧，减肥针我的建议是最好去医院做完检查医生给你开了，你再买同种的，不建议直接买。"
+   ],
+   "sync/account/data-loss": [
+    "[1★ 2026-10-18 v15.9.2] 糟糕 — 很糟糕。给我推送摇一摇广告叫我充会员。并且我的apple运动数据在薄荷健康里直接自己多加100➕卡路里。我都没有运动那么多。这样子实际下来。只会让我的减重计划全乱套。客服反馈过两次始终没能解决。很糟糕。一直在打太极。注销了不会再用了。差评-100。黑心",
+    "[1★ 2026-10-14 v15.9.2] 拉黑用户，垃圾平台。 — 花128元购买薄荷健康会员，结果发现软件重复计算热量消耗。每日1413千卡的饮食额度已通过活动系数考虑日常消耗，却又把走路等活动消耗的90%加回可吃额度，导致建议摄入热量偏高。联系客服要求解释计算依据，对方说法前后矛盾，始终无法解释如何避免重复计算，还拒绝退款。更离谱的是，投诉后平台直接把我的账号拉黑，导致无法正常登录，换手机、换网络都没用。花钱买会员，发现问题不解决，反而把投诉的消费者拉黑，连付费服务都无法使用！"
+   ],
+   "accuracy": [
+    "[1★ 2026-11-01 v15.10.1] 很垃圾 — 纯圈钱，app很差劲，很多常见的食物不管是ai还是手动搜索根本找不到，ai扫描食物更是一点都不准还要额外配合豆包使用，100多的电子称每天测体脂动不动就扫描不到每次要反反复复上秤好几次才能测到累都累死了"
+   ],
+   "support": [
+    "[1★ 2026-10-18 v15.9.2] 糟糕 — 很糟糕。给我推送摇一摇广告叫我充会员。并且我的apple运动数据在薄荷健康里直接自己多加100➕卡路里。我都没有运动那么多。这样子实际下来。只会让我的减重计划全乱套。客服反馈过两次始终没能解决。很糟糕。一直在打太极。注销了不会再用了。差评-100。黑心",
+    "[1★ 2026-10-14 v15.9.2] 拉黑用户，垃圾平台。 — 花128元购买薄荷健康会员，结果发现软件重复计算热量消耗。每日1413千卡的饮食额度已通过活动系数考虑日常消耗，却又把走路等活动消耗的90%加回可吃额度，导致建议摄入热量偏高。联系客服要求解释计算依据，对方说法前后矛盾，始终无法解释如何避免重复计算，还拒绝退款。更离谱的是，投诉后平台直接把我的账号拉黑，导致无法正常登录，换手机、换网络都没用。花钱买会员，发现问题不解决，反而把投诉的消费者拉黑，连付费服务都无法使用！"
+   ],
+   "missing-feature": [
+    "[1★ 2026-11-04 v15.10.2] 千万别开会员 — 说实话，这玩意会员一文不值，现在就是个买减肥针的地方。我记得我之前减肥就开过年会员，其实会员的地方就没咋个用，这一久又不得不减肥了，一冲动又开了个季卡，开完就后悔了，忘记以前开的会员真没啥大用，就是你在他的平台买减肥针，人家也会送，但是吧，减肥针我的建议是最好去医院做完检查医生给你开了，你再买同种的，不建议直接买。",
+    "[1★ 2026-10-14 v15.9.2] 难用的要s，难用到哭 — 最恶心的软件，今天卡了两次了，别的软件都正常就薄荷卡的要死，还全是广告，开屏摇一摇广告恶心死了，每次打开软件都不敢动，动一下就跳转了。设计的也是一坨，很多常见食品都搜不到热量，还得自定义，烦死了，还有个别食物封面和名字对不上的…还有我明明是在早餐界面选择复制单餐的，但由于被复制的那餐不是早餐，所以要手动改，经常习惯性忘了就要全部删了重弄。而且复制单餐也没有搜索功能，要靠自己手动找一个个看，眼睛都看瞎了",
+    "[1★ 2026-10-14 v15.9.2] 拉黑用户，垃圾平台。 — 花128元购买薄荷健康会员，结果发现软件重复计算热量消耗。每日1413千卡的饮食额度已通过活动系数考虑日常消耗，却又把走路等活动消耗的90%加回可吃额度，导致建议摄入热量偏高。联系客服要求解释计算依据，对方说法前后矛盾，始终无法解释如何避免重复计算，还拒绝退款。更离谱的是，投诉后平台直接把我的账号拉黑，导致无法正常登录，换手机、换网络都没用。花钱买会员，发现问题不解决，反而把投诉的消费者拉黑，连付费服务都无法使用！"
+   ]
+  }
+ },
+ {
+  "slug": "calai",
+  "name": "Cal AI - Calorie Tracker",
+  "seller": "Viral Development LLC",
+  "price": "Free",
+  "rating": 4.8,
+  "ratingCount": 377003,
+  "genres": [
+   "Health & Fitness",
+   "Food & Drink"
+  ],
+  "lastUpdate": "2026-11-19",
+  "released": "2024-04-08",
+  "reviewsFetched": 50,
+  "lowShare": 0.5,
+  "themes": {
+   "price/subscription": 9,
+   "bugs/crash": 5,
+   "sync/account/data-loss": 5,
+   "accuracy": 5,
+   "support": 2,
+   "update/regression": 1
+  },
+  "samples": {
+   "price/subscription": [
+    "[2★ 2026-10-25 v26.42.0] Gift offer glitch — Everytime I open this otherwise perfect app, I get an offer to lower my membership cost but it charges me every time. It’s probably a glitch but it’s annoying and dangerous because you’re made to think that you’ll be saving money.",
+    "[1★ 2026-10-23 v26.42.0] Impossible to use — Using the app free is virtually impossible every time I press the plus button to track my macros it makes me sign up for the free trial. Once I cancel the free trial and it expires the whole cycle repeats it self where I must sign up for it again to be able to track calories.",
+    "[1★ 2026-10-23 v26.42.0] Misleading practices, robbed me — Said 3 day trial and then $19 annually yet charged me $19 immediately for an app that doesn’t allow me to add multiple ingredients at once… Insane."
+   ],
+   "bugs/crash": [
+    "[1★ 2026-10-25 v26.42.0] Glitch in App — App worked great until today when the way the app rated a red, yellow and green days changed.  Hope the developers correct whatever they changed.  Will not be renewing in its current state.   \n\nPlease fix and push through the patch or revert back to the last model that worked.",
+    "[2★ 2026-10-25 v26.42.0] Gift offer glitch — Everytime I open this otherwise perfect app, I get an offer to lower my membership cost but it charges me every time. It’s probably a glitch but it’s annoying and dangerous because you’re made to think that you’ll be saving money.",
+    "[1★ 2026-10-23 v26.42.0] Glitching — The app is not correctly documenting fiber amounts, which makes me wonder what else it’s not even close. One avocado, four slices of a whole wheat toast on this app is only equal to 7 g of fiber"
+   ],
+   "update/regression": [
+    "[1★ 2026-10-20 v26.42.0] Lame App, lame customer service. — I paid not once but twice (once for ipad once for iphone) and it doesnt even sync, forcing me to pay twice. Plus the food is not accurate so i have to update it each time i eat a new food and whats worse is i make it all really professional picture from the internet to show up and then some moron comes along and replaces it with a terrible picture. Its all bad. I have been fighting with these apps"
+   ],
+   "sync/account/data-loss": [
+    "[3★ 2026-10-23 v26.42.0] good but buggy — very helpful and effective, love the easy methods to add food. however some bugs are really irritating and need to be fixed; for example sometimes my workouts just disappear or do not sync from apple health. sometimes even if i am well under my calorie limit the circle shows as red. and sometimes when im searching up foods by the exact label or brand name, they don’t come up even though they are i",
+    "[1★ 2026-10-20 v26.42.0] Lame App, lame customer service. — I paid not once but twice (once for ipad once for iphone) and it doesnt even sync, forcing me to pay twice. Plus the food is not accurate so i have to update it each time i eat a new food and whats worse is i make it all really professional picture from the internet to show up and then some moron comes along and replaces it with a terrible picture. Its all bad. I have been fighting with these apps",
+    "[3★ 2026-10-20 v26.42.0] It’s ok — I found this from an instagram account. I was really excited but, found the free features are lacking and it really doesn’t work all that well as far as scanning. It does do a great job if you describe in detail what’s on your plate instead of having to find each individual thing. But, it was ok.. not great."
+   ],
+   "accuracy": [
+    "[1★ 2026-10-21 v26.42.0] Under Delivers — I am fairly certain that this app was simply “vibe coded” with Claude Code or Codex by people with no actual software development experience or expertise in nutrition science. Like so many other apps based on a single “cool gimmick”, Cal AI falls flat in UX, useful reporting and cohesion. It does exactly one thing - takes a picture of food and generates a calorie and macro estimate that’s wrong fa",
+    "[1★ 2026-10-20 v26.42.0] Lame App, lame customer service. — I paid not once but twice (once for ipad once for iphone) and it doesnt even sync, forcing me to pay twice. Plus the food is not accurate so i have to update it each time i eat a new food and whats worse is i make it all really professional picture from the internet to show up and then some moron comes along and replaces it with a terrible picture. Its all bad. I have been fighting with these apps",
+    "[3★ 2026-10-16 v26.41.0] Good but needs work — No matter if I’m way over calories the health description says “significantly under” which is wrong. The AI search is often very inaccurate. It doesn’t seem to be learning well."
+   ],
+   "support": [
+    "[1★ 2026-10-20 v26.42.0] Lame App, lame customer service. — I paid not once but twice (once for ipad once for iphone) and it doesnt even sync, forcing me to pay twice. Plus the food is not accurate so i have to update it each time i eat a new food and whats worse is i make it all really professional picture from the internet to show up and then some moron comes along and replaces it with a terrible picture. Its all bad. I have been fighting with these apps",
+    "[1★ 2026-10-17 v26.41.0] DON’T do the free trial — Beware! This company ripped me off and hasn’t responded appropriately to my thoroughly documented complaint. If you try the “free” trial they charge you anyway and then won’t refund you. I was left to duke it out with their AI customer service bot and never did get my $20 back. Total scam."
+   ]
+  }
+ },
+ {
+  "slug": "calm",
+  "name": "Calm",
+  "seller": "Calm.com, Inc.",
+  "price": "Free",
+  "rating": 4.77,
+  "ratingCount": 1996089,
+  "genres": [
+   "Health & Fitness",
+   "Lifestyle"
+  ],
+  "lastUpdate": "2026-11-18",
+  "released": "2013-02-22",
+  "reviewsFetched": 100,
+  "lowShare": 0.32,
+  "themes": {
+   "price/subscription": 10,
+   "ads": 4,
+   "update/regression": 4,
+   "missing-feature": 3,
+   "bugs/crash": 2,
+   "sync/account/data-loss": 2,
+   "support": 1
+  },
+  "samples": {
+   "price/subscription": [
+    "[1★ 2026-11-07 v7.4] Simplify it!! — This app used to promote actual rest and well-being period. Now every screen has a pop up to promote itself and I had to get through three pop up’s just to get to my kid’s sleep story. We have paid the max subscription. I don’t want to be marketed to while I’m trying to learn to meditate. Please, calm, simplify the app again.",
+    "[1★ 2026-11-06 v7.4] Made my anxiety worse — bought this app to help calm my anxiety…but was never able to access content as it remained locked…attempted to contact Calm only to be directed by AI to frustrating solutions that did not work…attempted to get refund only to be sent down other rabbit holes that went nowhere as they are very purposely convoluted and seem to be designed to wear one down and give up…they are however quick to try to ",
+    "[1★ 2026-11-05 v7.4] Too many ads and promises — Just let me open the app and do my thing. Constant promotions for family or friends. Plus more expensive than Headspace with less content"
+   ],
+   "ads": [
+    "[1★ 2026-11-07 v7.4] No, no, no! — I don’t want to see the face of some “celebrity” as soon as I open the app, nor an advertisement to upgrade, I’m already paying too much for too little! Why not keep things simple and relaxing? Perhaps a CALM scene to start the day? Isn’t that the goal?",
+    "[1★ 2026-11-05 v7.4] Too many ads and promises — Just let me open the app and do my thing. Constant promotions for family or friends. Plus more expensive than Headspace with less content",
+    "[1★ 2026-11-03 v7.4] Ads and questions — Stop asking me to review this app. Stop upselling for new feafeature I’m in\n features"
+   ],
+   "bugs/crash": [
+    "[3★ 2026-11-04 v6.88] Great app BUT glitchy — Today my soundscapes keep jumping one to another every few seconds on their own…very annoying…why is this happening? Otherwise, I love the soundscapes options.",
+    "[1★ 2026-10-28 v7.4] How do you think I’m feeling? — I don’t know what happened to calm since the last time I was on, but I opened it and it  asked me how I’m feeling. Didn’t you proceeded to get stuck and I couldn’t access anything I had to delete the app and then put it back. How the heck did you think I’m feeling if I’m going to open the app  \nThere should be a way to contact somebody if this happens again .. I’m not interested in the other playe"
+   ],
+   "update/regression": [
+    "[1★ 2026-11-07 v7.4] Simplify it!! — This app used to promote actual rest and well-being period. Now every screen has a pop up to promote itself and I had to get through three pop up’s just to get to my kid’s sleep story. We have paid the max subscription. I don’t want to be marketed to while I’m trying to learn to meditate. Please, calm, simplify the app again.",
+    "[3★ 2026-11-03 v7.4] Update ? — I’m not enjoying the update! all of my selected playlists have apparently been deleted. It’s not calming to search the website for my tried and trusted reliable playlists not find them! FRUSTRATED, not great right at bedtime.",
+    "[1★ 2026-11-01 v7.4] Subscriptions took over — I have been a user of this app and it’s white noise since June 28th, 2018. I have probably used it every day since then, but with the recent update I noticed they took away the rain noises and made them subscriptions based. The light rain is available but you only get “3 free listens”. After being an active user for 8 years my time on Calm is ending because they have chosen to switch models and ha"
+   ],
+   "sync/account/data-loss": [
+    "[2★ 2026-10-31 v7.4] App is great billing is awful — I really love this app.  But it is absolutely unaffordable.  I have searched and searched for financial support, as many apps have scholarships for those who can really benefit but cannot afford the high cost of subscription.  I have found absolutely no scholarships.  None.  But they give it away completely free to members of companies.  So, I tried a company promo code I found through the Reddit ",
+    "[1★ 2026-10-28 v7.4] Beware of billing practices — My wife started with a free account.  Recently we noticed they charged our bank card.  When we looked through the account further we noticed they have been charging us for the better part of a year every 3 months. Meanwhile their app does not have any billing/account summary. My wife is trying to cancel but their website and lack of customer support is making it very difficult.\n\nWith time and effo"
+   ],
+   "support": [
+    "[1★ 2026-10-28 v7.4] Beware of billing practices — My wife started with a free account.  Recently we noticed they charged our bank card.  When we looked through the account further we noticed they have been charging us for the better part of a year every 3 months. Meanwhile their app does not have any billing/account summary. My wife is trying to cancel but their website and lack of customer support is making it very difficult.\n\nWith time and effo"
+   ],
+   "missing-feature": [
+    "[1★ 2026-11-04 v7.4] frustrated — Ok, I wrote an unhappy review. I get a notice saying Calm has responded. Where??? Never did find it! I should have read the other reviews. So many have the same trouble that I do.!!! Some are months old! Doesn’t look like they did a thing to fix it. So unhappy with them.",
+    "[2★ 2026-11-01 v7.4] No daily meditations are longer than 7 minutes — Mind blowing that there’s no option to increase the length of the Daily Calm or to shut off the lengthy lectures they end with. I bought this so I could have a no friction guided meditation every day for 10 - 20 minutes and they don’t have it.",
+    "[3★ 2026-10-28 v7.4] Sleep stories — Please add new/more sleep stories. I’ve listened to the same ones too often. Thank you. I’ve been paying for calm for several years and I’m thinking of cancelling if more sleepy stories aren’t added soon."
+   ]
+  }
+ },
+ {
+  "slug": "duolingo",
+  "name": "Duolingo: Learn Languages",
+  "seller": "Duolingo, Inc",
+  "price": "Free",
+  "rating": 4.72,
+  "ratingCount": 5622522,
+  "genres": [
+   "Education",
+   "Social Networking"
+  ],
+  "lastUpdate": "2026-11-23",
+  "released": "2012-11-13",
+  "reviewsFetched": 50,
+  "lowShare": 0.26,
+  "themes": {
+   "price/subscription": 2,
+   "accuracy": 1,
+   "privacy": 1
+  },
+  "samples": {
+   "price/subscription": [
+    "[1★ 2026-11-22 v7.149.1] AI Slop 👎 — This app has really gone downhill ever since they decided to overhaul it with AI. It’s not educational anymore, it’s just a casino of pointless costumes and activities designed to increase engagement instead of education. Cancelling my subscription. 👎",
+    "[2★ 2026-11-22 v7.149.1] For Duolingo — You can learn languages yes but it costs money and even if you don’t use it you have to pay and you can’t delete It!"
+   ],
+   "accuracy": [
+    "[1★ 2026-11-22 v7.149.1] Bro why — If you wanna learn chess dont download this unless you wanna get beat 1.M times and and if you get it wrong it will just show u HOW ARE YOU GONNA LEARN IF YOU JUST TELL US BRUH! Fix yo dang app 😡"
+   ],
+   "privacy": [
+    "[3★ 2026-11-22 v7.149.1] Bit creepy — I tryed to delete it and Duolingo said you can’t hide from me I was so scared and it just put me back in the app"
+   ]
+  }
+ },
+ {
+  "slug": "flighty",
+  "name": "Flighty – Live Flight Tracker",
+  "seller": "Flighty LLC",
+  "price": "Free",
+  "rating": 4.85,
+  "ratingCount": 164312,
+  "genres": [
+   "Travel",
+   "Utilities"
+  ],
+  "lastUpdate": "2026-11-12",
+  "released": "2019-08-19",
+  "reviewsFetched": 50,
+  "lowShare": 0.24,
+  "themes": {
+   "price/subscription": 7,
+   "sync/account/data-loss": 2,
+   "missing-feature": 1,
+   "update/regression": 1,
+   "bugs/crash": 1
+  },
+  "samples": {
+   "price/subscription": [
+    "[1★ 2026-11-22 v4.12.1] Lost My Trust — Won’t Be Renewing — I’m deeply disappointed that Flighty forces paying customers to use Apple Maps and its politically motivated renaming of the Gulf of Mexico as the “Gulf of America,” with absolutely no option to choose another map provider or restore the internationally recognized name.\n\nThis is not a minor cosmetic issue. It’s about trust, integrity, and consumer choice. I pay for Flighty to track flights, not to",
+    "[1★ 2026-11-21 v4.12.1] Fraudulently Charged — Charged three times for the weekly subscription despite cancellation.",
+    "[3★ 2026-11-20 v4.12.1] Cool app until you realize you have to pay — I downloaded this for my Apple Watch to appear as a live activity, and it was nice until I realized you only get one free flight before you are locked behind a paywall for almost all features"
+   ],
+   "bugs/crash": [
+    "[3★ 2026-11-15 v4.12.1] Love it … except the limited act options — A great product and I would gladly pay for it except for the fact you’re tied to one single Apple ID - an absolute showstopper for those of us who travel for work with a corporate device but don’t want to commit to a work account forever. This is communicated as a benefit to users, but it comes across as a frustrating glitch. Having an android version would help but that’s not available either, de"
+   ],
+   "sync/account/data-loss": [
+    "[1★ 2026-11-22 v4.12.1] Lost My Trust — Won’t Be Renewing — I’m deeply disappointed that Flighty forces paying customers to use Apple Maps and its politically motivated renaming of the Gulf of Mexico as the “Gulf of America,” with absolutely no option to choose another map provider or restore the internationally recognized name.\n\nThis is not a minor cosmetic issue. It’s about trust, integrity, and consumer choice. I pay for Flighty to track flights, not to",
+    "[3★ 2026-11-15 v4.12.1] Love it … except the limited act options — A great product and I would gladly pay for it except for the fact you’re tied to one single Apple ID - an absolute showstopper for those of us who travel for work with a corporate device but don’t want to commit to a work account forever. This is communicated as a benefit to users, but it comes across as a frustrating glitch. Having an android version would help but that’s not available either, de"
+   ],
+   "missing-feature": [
+    "[1★ 2026-11-22 v4.12.1] Lost My Trust — Won’t Be Renewing — I’m deeply disappointed that Flighty forces paying customers to use Apple Maps and its politically motivated renaming of the Gulf of Mexico as the “Gulf of America,” with absolutely no option to choose another map provider or restore the internationally recognized name.\n\nThis is not a minor cosmetic issue. It’s about trust, integrity, and consumer choice. I pay for Flighty to track flights, not to"
+   ]
+  }
+ },
+ {
+  "slug": "flo",
+  "name": "Flo Cycle & Period Tracker",
+  "seller": "FLO HEALTH UK LIMITED",
+  "price": "Free",
+  "rating": 4.74,
+  "ratingCount": 2030188,
+  "genres": [
+   "Health & Fitness",
+   "Medical"
+  ],
+  "lastUpdate": "2026-11-20",
+  "released": "2015-10-03",
+  "reviewsFetched": 50,
+  "lowShare": 0.62,
+  "themes": {
+   "price/subscription": 20,
+   "ads": 6,
+   "sync/account/data-loss": 2,
+   "accuracy": 2,
+   "update/regression": 2,
+   "support": 1,
+   "missing-feature": 1
+  },
+  "samples": {
+   "price/subscription": [
+    "[3★ 2026-11-22 v10.11.1] The social aspect... — I don't really know what to think. I think secret chats are very cool, a fun way to connect with people. HOWEVER the moderation is terrible. As a trans man, I know first hand how absolutely homophobic and transphobic people are. The moderation does hardly anything to protect people, and just lets the bullying happen. Not to mention how many times I've had people push christianity on me and nothing",
+    "[3★ 2026-11-22 v10.11.1] The Annoying Push for Premium Access — I have had flo for many years. It has helped me in my teens due to having irregular periods and even now where they are now more regular. It’s easy and insightful but it’s so annoying how much you cant see or use due to not having the “premium version” of flo. Im sorry but I personally feel that it should either be free or SO much cheaper. I personally only use it to track my periods and intimacy ",
+    "[1★ 2026-11-22 v10.11.1] Pop-up to subscribe if you click on anything — The first time I was pregnant. I feel like I was almost scammed into subscribing because that was the only way I was able to find out anything about my baby and pregnancy. It was like $65 for a year for information I could find on other apps or now  AI can basically tell you everything. I’m trying to use the app again now and you can even look at or click on anything without having a pop up asking"
+   ],
+   "ads": [
+    "[1★ 2026-11-19 v10.10.0] Annoying and not worth the money — Honestly, even the free version is not worth it when it comes to period tracking.  I could and now do literally track my own cycle.  This is because the UI bombards you with notifications and ads about getting a paid subscription.\n\nWhen I first got the app, I was under the impression that you needed to pay to get access to any features- but the main difference I noticed was these surveys that basi",
+    "[1★ 2026-11-18 v10.10.0] Too Many Adds — Way too many ads. I wish it would chill and give an easier experience. I don’t want to have to fight through ads every time I open the app.",
+    "[1★ 2026-11-18 v10.10.0] Money grabbers — I remember when this was free now you can’t do anything without a membership literally like I don’t even know why the app is advertised as free because everything costs and it’ll keep popping up full screen ads that you have to wait to exit out of but when you do you’re opening two more ads to make sure you really don’t wanna a buy the membership lol this app is terrible please search the free one"
+   ],
+   "update/regression": [
+    "[2★ 2026-11-19 v10.11.0] annoying — i used to love this app, but now i genuinely cannot open it without being forced to click through 3 screens of them begging for me to pay to use it. it's terrible. i don't mind a pop up, but at least let me X out of it. don't force me to act like im gonna pay for it to close the damn screen.",
+    "[1★ 2026-11-19 v10.11.0] $$$$$$$$ — Everything in the app is either behind a pay wall or brings a page for you to subscribe. Can’t even log your period without being boyfriend asked to subscribe. Can’t see what day of your period you’re on without a subscription. This app used to be so good and helpful and had so much information you can’t find as a woman. Now they just want $$$$$"
+   ],
+   "sync/account/data-loss": [
+    "[1★ 2026-11-21 v10.11.1] Annoying — I can’t even log into the app without them trying to force some paid service on me!! The paid services really mess up what could be a nice app!",
+    "[1★ 2026-11-18 v10.10.0] Worse app ever — They are keeping to charge me for an account that I have deleted over a month ago, and tried multiple times . I have emailed the customer service and I was told someone will get in touch with me in 24 hours, it’s been over a week and no one did. I suppose they know only how to change for an existing accounts , rather than take care of existing ones."
+   ],
+   "accuracy": [
+    "[1★ 2026-11-21 v10.11.1] Greedy — This app has the wrong information and is giving me bills to pay it when I already deleted the app",
+    "[1★ 2026-11-18 v10.10.0] Inaccurate data — Flow isn’t showing my predictions correctly. This been going on for two months."
+   ],
+   "support": [
+    "[1★ 2026-11-18 v10.10.0] Worse app ever — They are keeping to charge me for an account that I have deleted over a month ago, and tried multiple times . I have emailed the customer service and I was told someone will get in touch with me in 24 hours, it’s been over a week and no one did. I suppose they know only how to change for an existing accounts , rather than take care of existing ones."
+   ],
+   "missing-feature": [
+    "[1★ 2026-11-18 v10.10.0] Too Many Adds — Way too many ads. I wish it would chill and give an easier experience. I don’t want to have to fight through ads every time I open the app."
+   ]
+  }
+ },
+ {
+  "slug": "forest",
+  "name": "Forest: Focus for Productivity",
+  "seller": "SEEKRTECH CO., LTD.",
+  "price": "Free",
+  "rating": 4.79,
+  "ratingCount": 49620,
+  "genres": [
+   "Productivity",
+   "Lifestyle"
+  ],
+  "lastUpdate": "2026-11-18",
+  "released": "2014-05-10",
+  "reviewsFetched": 50,
+  "lowShare": 0.84,
+  "themes": {
+   "update/regression": 35,
+   "price/subscription": 13,
+   "bugs/crash": 4,
+   "accuracy": 2,
+   "support": 1,
+   "ads": 1,
+   "missing-feature": 1
+  },
+  "samples": {
+   "price/subscription": [
+    "[1★ 2026-10-18 v5.31.0] Retro User — I first downloaded this app about 6 years ago and used it with a friend. We both loved it; it was a simple way to keep us both off our phones and on task. Each of us even bought a subscription. \n\nThese past few months, the UI updates and AI integration have made this app so, so clunky. It breaks my heart to say that it's an eyesore now. The designs feel so much less simple and human-made. Clicking",
+    "[1★ 2026-10-18 v5.31.0] Stop asking for money — Stop monetizing everything. Stop pushing the subscription onto everyone. I already paid you, I’m not giving you more. And a lot of users are probably students who should be pressured into paying for features that should be free. Trend analysis as tags aren’t exactly special features that should be behind a paywall. \n\nIt’s so obvious that you only care for the people who pay the subscription. Every",
+    "[1★ 2026-10-11 v5.30.0] RIP Another AI’d App — I’ve been using Forest daily since 2019 or so, and I was a paid user from day one. I even bought some crystals at the start. The new subscription model adds so much unnecessary bloat, on top of the repeated UI changes and constant glitching. It feels like designs, design decisions, code, and customer service emails have all been delegated to AI. Imagine the irony of what used to be a tree planting"
+   ],
+   "ads": [
+    "[1★ 2026-10-01 v5.28.0] Please stop making it worse — I’ve used this app for 6 years. It’s becoming almost unusable as of this year and especially the most recent update - every UI change is worse. So much clutter, selecting tree and length of session is much less intuitive. It’s not about focus or using your phone less at all and all about ads, in game currency, and features no one cares about. Anyone know of a good pomodoro app???"
+   ],
+   "bugs/crash": [
+    "[1★ 2026-10-18 v5.31.0] Stop asking for money — Stop monetizing everything. Stop pushing the subscription onto everyone. I already paid you, I’m not giving you more. And a lot of users are probably students who should be pressured into paying for features that should be free. Trend analysis as tags aren’t exactly special features that should be behind a paywall. \n\nIt’s so obvious that you only care for the people who pay the subscription. Every",
+    "[1★ 2026-10-11 v5.30.0] RIP Another AI’d App — I’ve been using Forest daily since 2019 or so, and I was a paid user from day one. I even bought some crystals at the start. The new subscription model adds so much unnecessary bloat, on top of the repeated UI changes and constant glitching. It feels like designs, design decisions, code, and customer service emails have all been delegated to AI. Imagine the irony of what used to be a tree planting",
+    "[1★ 2026-10-08 v5.29.1] Used to be great — I’m really disappointed with the changes made to the app. I really miss the old designs of the trees and plants in particular! The classic tree and the simple visual changes for increases in time were so much better than the new design. Not everything needs to be upgraded or changed. If something isn’t broken, don’t fix it. What was wrong with the old design? \n\nAlso why am I being marketed Plus if"
+   ],
+   "update/regression": [
+    "[1★ 2026-10-18 v5.31.0] Retro User — I first downloaded this app about 6 years ago and used it with a friend. We both loved it; it was a simple way to keep us both off our phones and on task. Each of us even bought a subscription. \n\nThese past few months, the UI updates and AI integration have made this app so, so clunky. It breaks my heart to say that it's an eyesore now. The designs feel so much less simple and human-made. Clicking",
+    "[1★ 2026-10-18 v5.31.0] Too much interactive animation — Too much interactive animation and required presses post session and annoying ,can’t be turned off , it used to be faster and much smoother than this “improved version”",
+    "[2★ 2026-10-18 v5.31.0] Please Bring Back Swiping the Circle and Tree Preview — The app used to let you easily swipe around the circle to select a time and preview what the tree would look like. Now that feature is gone, and I can’t see what the tree will look like before planting it. This is extremely frustrating. Please bring back the old time-selection and tree-preview feature."
+   ],
+   "accuracy": [
+    "[1★ 2026-10-11 v5.30.0] Terrible update — Like others point out the app used to be great but now they’re pushing their subscription service and you have to click through multiple stupid dialog to start another session which happens frequently when you use it to work daily. Revert back to the last years edition and you’ll have happy customers again. They clearly did this to try and make money it’s shameful\n\nEdit: I believe the devs hid the",
+    "[1★ 2026-10-08 v5.29.1] Used to be great — I’m really disappointed with the changes made to the app. I really miss the old designs of the trees and plants in particular! The classic tree and the simple visual changes for increases in time were so much better than the new design. Not everything needs to be upgraded or changed. If something isn’t broken, don’t fix it. What was wrong with the old design? \n\nAlso why am I being marketed Plus if"
+   ],
+   "support": [
+    "[1★ 2026-10-11 v5.30.0] RIP Another AI’d App — I’ve been using Forest daily since 2019 or so, and I was a paid user from day one. I even bought some crystals at the start. The new subscription model adds so much unnecessary bloat, on top of the repeated UI changes and constant glitching. It feels like designs, design decisions, code, and customer service emails have all been delegated to AI. Imagine the irony of what used to be a tree planting"
+   ],
+   "missing-feature": [
+    "[1★ 2026-09-28 v5.28.0] cancelled my subscription — planting has become less exciting and more tedious. new UI sucks. i wish i didn’t have 11 months left on my subscription!!"
+   ]
+  }
+ },
+ {
+  "slug": "life360",
+  "name": "Life360: Family Safety & GPS",
+  "seller": "Life360",
+  "price": "Free",
+  "rating": 4.79,
+  "ratingCount": 3174280,
+  "genres": [
+   "Social Networking",
+   "Lifestyle"
+  ],
+  "lastUpdate": "2026-11-23",
+  "released": "2010-08-10",
+  "reviewsFetched": 50,
+  "lowShare": 0.36,
+  "themes": {
+   "update/regression": 7,
+   "bugs/crash": 3,
+   "accuracy": 3,
+   "price/subscription": 1
+  },
+  "samples": {
+   "price/subscription": [
+    "[1★ 2026-11-20 v26.44.0] Awful — Thanks for bricking my tiles. This app is 99% garbage and spam. Oh and it doesn’t list my tiles so useless. Another useful thing rendered completely useless by a new update. Would get a refund for my tiles if I could 👎"
+   ],
+   "bugs/crash": [
+    "[2★ 2026-11-20 v26.44.0] Check-In — The “check in” feature has been disabled. Why am I paying for an app every year when the key feature has been eliminated? My teenage daughter used the check-in when she arrived at places to make sure the circle knew she was okay. \n\nMy entire circle LOVED the check-in point. Driving to my mom’s, she would know where I am without having to check the app. \n\nSure, I love the SOS, the crash detection, ",
+    "[1★ 2026-11-20 v26.44.0] Still sucks… — This app is suffering from a multitude of bugs and they can’t fix them all fast enough.. I would not recommend depending on this app or paying for any upgrades as it is far from accurate. I’d recommend find my for now.  Even with the updates every few days. Can’t track your kids. Freezes, then you get zig zag lines.  Can’t zoom in on the map or move the map around to see where they’re coming from "
+   ],
+   "update/regression": [
+    "[1★ 2026-11-20 v26.44.0] Still sucks… — This app is suffering from a multitude of bugs and they can’t fix them all fast enough.. I would not recommend depending on this app or paying for any upgrades as it is far from accurate. I’d recommend find my for now.  Even with the updates every few days. Can’t track your kids. Freezes, then you get zig zag lines.  Can’t zoom in on the map or move the map around to see where they’re coming from ",
+    "[2★ 2026-11-20 v26.44.0] New update — Since the new updates I’m constantly getting notifications on adds which I have turned off and my wife leaving even though she’s right beside me.",
+    "[1★ 2026-11-20 v26.44.0] Awful — Thanks for bricking my tiles. This app is 99% garbage and spam. Oh and it doesn’t list my tiles so useless. Another useful thing rendered completely useless by a new update. Would get a refund for my tiles if I could 👎"
+   ],
+   "accuracy": [
+    "[3★ 2026-11-19 v26.44.0] App not accurate — App does not always notify me when my son leaves the house. The app also states my son arrived home but he will not even be home yet."
+   ]
+  }
+ },
+ {
+  "slug": "myfitnesspal",
+  "name": "MyFitnessPal: Calorie Counter",
+  "seller": "MyFitnessPal, Inc.",
+  "price": "Free",
+  "rating": 4.71,
+  "ratingCount": 2397326,
+  "genres": [
+   "Health & Fitness",
+   "Food & Drink"
+  ],
+  "lastUpdate": "2026-11-17",
+  "released": "2009-12-08",
+  "reviewsFetched": 50,
+  "lowShare": 0.62,
+  "themes": {
+   "update/regression": 10,
+   "bugs/crash": 6,
+   "ads": 6,
+   "price/subscription": 6,
+   "accuracy": 4,
+   "missing-feature": 1,
+   "sync/account/data-loss": 1,
+   "support": 1
+  },
+  "samples": {
+   "price/subscription": [
+    "[1★ 2026-11-05 v26.44.0] Boo — Myfitnesspal used to be so easy to use. Now, it is confusing and has even more things behind a paywall. I used to be able to scan a barcode whether free or premium. Not anymore. \n\nThis interface is the most confusing app I have ever dealt with making the simple task of attempting to add a meal, complicated.",
+    "[2★ 2026-11-04 v26.44.0] Newer versions are not as good — I had this app back almost 10 years ago. Back then the barcode scanning was free. Now they want you to pay for everything.  I still use it but just manually enter everything.",
+    "[3★ 2026-11-04 v26.44.0] Notifications — It asked for a review and typically won't stop until you submit a review. It's an okay app. Ads are annoying, but the structure is usable and the data it has internally is enough to not require manually entering all your food. I haven't tried the paid version."
+   ],
+   "ads": [
+    "[2★ 2026-11-06 v26.44.0] App format on iPad — I really like the app, but the format on the iPad is horrible. There is a big add that messes up the way I look at my meal diary’s for the day and it has caused me to delete some food items by accident trying to scroll on the page to the side to see the rest of my diary. Overall this has made me really upset over the fact that the ad is so big for no reason.",
+    "[1★ 2026-11-05 v26.44.0] Latest update ruined it — After the recent update, ads completely mess up the formatting and make the program unuseable.",
+    "[1★ 2026-11-05 v26.44.0] Ads are a bit excessive — I understand there is a premium version that doesn’t have ads however on the free version, your ads make the app unusable on an iPad. It’s fine to have them I don’t care about the ads but when they are making the app not even function correctly and take up the entire screen space and can’t even scroll or move around them it’s very frustrating."
+   ],
+   "bugs/crash": [
+    "[2★ 2026-11-06 v26.44.0] Latest version buggy — I can’t copy my friend’s meals. The triple dot button for each meal is there, but the option menu doesn’t appear when I press on it.",
+    "[2★ 2026-11-05 v26.44.0] Too many bugs — Latest update has too many bugs.  When adding a meal, the amount is stuck and I can select snack, have to workaround.   I can scroll in search.  I’ve logged out and I’ve reinstalled.  Please fix",
+    "[2★ 2026-11-05 v26.44.0] Premium account glitches — The premium account glitched and logged me out constantly over the span of two months and did not allow me to actually utilize it."
+   ],
+   "update/regression": [
+    "[2★ 2026-11-06 v26.44.0] Diary Food Search Becoming Filled With Junk — I’ve used this app for years on and off. It used to be a lot better with regards to food choices and accuracy. Now, all I see are way too many “junk” incorrect nutrition entries, way too many duplicate choices, and the difficulty of finding the nutrition information that matches the product label. Just going back to a physically written journal in a 25c school-lined notebook that doesn’t have to b",
+    "[3★ 2026-11-06 v26.44.0] AI meal log — I am not impressed with the new AI tool. Bring back the photo option to log food with it was easier to use.",
+    "[2★ 2026-11-05 v26.44.0] Too many bugs — Latest update has too many bugs.  When adding a meal, the amount is stuck and I can select snack, have to workaround.   I can scroll in search.  I’ve logged out and I’ve reinstalled.  Please fix"
+   ],
+   "sync/account/data-loss": [
+    "[2★ 2026-11-05 v26.44.0] Premium account glitches — The premium account glitched and logged me out constantly over the span of two months and did not allow me to actually utilize it."
+   ],
+   "accuracy": [
+    "[2★ 2026-11-06 v26.44.0] Diary Food Search Becoming Filled With Junk — I’ve used this app for years on and off. It used to be a lot better with regards to food choices and accuracy. Now, all I see are way too many “junk” incorrect nutrition entries, way too many duplicate choices, and the difficulty of finding the nutrition information that matches the product label. Just going back to a physically written journal in a 25c school-lined notebook that doesn’t have to b",
+    "[2★ 2026-11-04 v26.44.0] Protein and Fiber is incorrect — I’ve been using this app for a very long time, years and trusted the output and looking over the macros it’s giving me on items I’m weighing out and putting correctly in the app and then giving me completely wrong protein and fiber readings, it’s super disappointing.",
+    "[1★ 2026-11-03 v26.43.0] Bring Back Meal Scan! — With the new update they eliminated the meal scan feature and added this AI option to type in what you ate. I HATE it. If I’m sitting at dinner, I don’t want to have to sit at the table and type what I’m eating only to have to edit the response because it’s wrong. Meal scan was easy because I just had to snap a quick photo and it captured my portion sizes & food descriptions."
+   ],
+   "support": [
+    "[1★ 2026-11-03 v26.44.0] Used to be great….. — Had a pretty good experience using this app. The easy logging makes tracking meals a breeze. The greatest feature WAS the meal scan. Just take a picture of your plate and their AI told you what you ate and the calories consumed. \nMFP pulled the feature without notice.\nI contacted “help” with no response.\nThink before you invest $$$ there might be better options"
+   ],
+   "missing-feature": [
+    "[3★ 2026-11-06 v26.44.0] Could Improve — I like this app, but I wish the scanning-of-barcodes option was free. I just found another app that allows me to use that feature for free. I’ll probably stop using this one if that one is more convenient. Overall it’s a good app, so it gets 3 stars."
+   ]
+  }
+ },
+ {
+  "slug": "notability",
+  "name": "Notability: AI Notes & Study",
+  "seller": "Ginger Labs, Inc.",
+  "price": "Free",
+  "rating": 4.76,
+  "ratingCount": 462129,
+  "genres": [
+   "Productivity",
+   "Education"
+  ],
+  "lastUpdate": "2026-11-16",
+  "released": "2010-04-01",
+  "reviewsFetched": 50,
+  "lowShare": 0.68,
+  "themes": {
+   "price/subscription": 10,
+   "update/regression": 9,
+   "sync/account/data-loss": 6,
+   "bugs/crash": 4,
+   "missing-feature": 3,
+   "support": 2,
+   "ads": 1,
+   "accuracy": 1
+  },
+  "samples": {
+   "price/subscription": [
+    "[3★ 2026-09-30 v16.12.4] Family Share — In the App Store it indicates that Notability supports family share. In the Notability app settings for a plus subscription it indicates it is tied to a single Apple ID and not available for family share. I have not used the app but this was a consideration when I purchased it.",
+    "[1★ 2026-09-29 v16.12.4] Paid for a notetaker, got a sales funnel — I paid for this app to take notes, not to dismiss pop-ups. Every few sessions, another prompt interrupts my work to push a new service or subscription feature. The latest one is worse: without asking me, the app scheduled my notes to move from iCloud to Notability's own servers on a fixed date, and my only choices are Update now or Postpone. After the move, iCloud sync no longer works, even though",
+    "[1★ 2026-09-27 v16.12.3] Limited note taking — You can only take so many free notes before they are asking you to pay to take more. Company is aware and wants you to pay either a subscription or a one time purchase.. to take notes on a notes app. I highly recommend goodnotes, they have 3 free customizable books with unlimited notetaking as well as cute stickers and customizable stickers."
+   ],
+   "ads": [
+    "[1★ 2026-09-29 v16.12.4] Paid for a notetaker, got a sales funnel — I paid for this app to take notes, not to dismiss pop-ups. Every few sessions, another prompt interrupts my work to push a new service or subscription feature. The latest one is worse: without asking me, the app scheduled my notes to move from iCloud to Notability's own servers on a fixed date, and my only choices are Update now or Postpone. After the move, iCloud sync no longer works, even though"
+   ],
+   "bugs/crash": [
+    "[1★ 2026-09-24 v16.12.3] Login issue — It forces me to login once a while, which is really annoying.  Sometimes it freezes during the login and I cannot access my notes.",
+    "[1★ 2026-09-23 v16.12.3] Bug with locked notes! — Still a bug that you can see locked notes in recents while you are putting in the password",
+    "[2★ 2026-09-22 v16.12.1] Mac version is rough — UPDATE: Customer service was zero help. They had a bot tell me the equivalent of “try turning it off and back on” and eventually connected me with a person who also gave generic, unhelpful (and inapplicable) advice and labeled the issue as resolved, leaving me unable to respond to it without opening a new ticket.                                   Love Notability, but the Mac version crashes multip"
+   ],
+   "update/regression": [
+    "[1★ 2026-09-29 v16.12.4] Bad new update with less question — I specifically purchased this app to help me study because of the AI feature to generate up to 100 questions from the notes or lectures uploaded. Now it only generates the same  20 questions every time. This is horrible and it doesn’t let me study the way I want it. Change it back to make more self testing questions.",
+    "[1★ 2026-09-29 v16.12.4] Paid for a notetaker, got a sales funnel — I paid for this app to take notes, not to dismiss pop-ups. Every few sessions, another prompt interrupts my work to push a new service or subscription feature. The latest one is worse: without asking me, the app scheduled my notes to move from iCloud to Notability's own servers on a fixed date, and my only choices are Update now or Postpone. After the move, iCloud sync no longer works, even though",
+    "[2★ 2026-09-27 v16.12.3] Was great.  Now is not — Notability was an awesome app - so easy to use.  Now it is not.  The latest update makes you go through a splash screen telling you how to use the app.  It no longer opens at the note page you were at the last time.  This “update” is time consuming and serves no purpose.  I did try to get it eliminated through customer service, but you only get to talk to “Fin” the AI agent.  No one else because I"
+   ],
+   "sync/account/data-loss": [
+    "[1★ 2026-09-29 v16.12.4] Paid for a notetaker, got a sales funnel — I paid for this app to take notes, not to dismiss pop-ups. Every few sessions, another prompt interrupts my work to push a new service or subscription feature. The latest one is worse: without asking me, the app scheduled my notes to move from iCloud to Notability's own servers on a fixed date, and my only choices are Update now or Postpone. After the move, iCloud sync no longer works, even though",
+    "[1★ 2026-09-26 v16.12.3] It deleted all my notes!! — I opened the app only to find that all of my notes had disappeared!  When I tried to record notes from a new lecture, it generated notes, bit the notes disappeared immediately after I stopped the recording.  Worse than useless.  I should have taken my own notes.",
+    "[1★ 2026-09-24 v16.12.3] Login issue — It forces me to login once a while, which is really annoying.  Sometimes it freezes during the login and I cannot access my notes."
+   ],
+   "accuracy": [
+    "[1★ 2026-09-22 v16.12.2] Escribe en incorrecto — Esta aplicación es una basura. Tengo tanto mi dispositivo como la aplicación programada para escribir en español. Pagué más de $100 dólares, la membresía más cara, y aún así, la aplicación me genera las notas en inglés por más que le pido que lo haga en español. Esta aplicación da un servicio terrible al consumidor. $100 dólares desperdiciados."
+   ],
+   "support": [
+    "[2★ 2026-09-27 v16.12.3] Was great.  Now is not — Notability was an awesome app - so easy to use.  Now it is not.  The latest update makes you go through a splash screen telling you how to use the app.  It no longer opens at the note page you were at the last time.  This “update” is time consuming and serves no purpose.  I did try to get it eliminated through customer service, but you only get to talk to “Fin” the AI agent.  No one else because I",
+    "[2★ 2026-09-22 v16.12.1] Mac version is rough — UPDATE: Customer service was zero help. They had a bot tell me the equivalent of “try turning it off and back on” and eventually connected me with a person who also gave generic, unhelpful (and inapplicable) advice and labeled the issue as resolved, leaving me unable to respond to it without opening a new ticket.                                   Love Notability, but the Mac version crashes multip"
+   ],
+   "missing-feature": [
+    "[1★ 2026-09-26 v16.12.3] It deleted all my notes!! — I opened the app only to find that all of my notes had disappeared!  When I tried to record notes from a new lecture, it generated notes, bit the notes disappeared immediately after I stopped the recording.  Worse than useless.  I should have taken my own notes.",
+    "[3★ 2026-09-23 v16.12.3] It’s okay — This app is fine for taking notes. I purchased the premium version because I wanted to take advantage of the quizzes, tests, matching game, etc. However, if I have a 10 page note, it’ll only ask me questions from 3 of those pages. And it’s 80 questions! It even does the same thing if I have less pages, like 5 pages. Then it’ll only ask information from 1 or 2 pages. It never asks all or even half ",
+    "[2★ 2026-09-23 v16.12.3] Hard to use offline — App will offload files as storage on device gets low. Then you either cannot access offline or it takes forever to download the documents back that you want."
+   ]
+  }
+ },
+ {
+  "slug": "opal",
+  "name": "Opal: Screen Time Control",
+  "seller": "OPAL OS CORPORATION",
+  "price": "Free",
+  "rating": 4.72,
+  "ratingCount": 92019,
+  "genres": [
+   "Productivity",
+   "Health & Fitness"
+  ],
+  "lastUpdate": "2026-11-16",
+  "released": "2020-12-15",
+  "reviewsFetched": 50,
+  "lowShare": 0.54,
+  "themes": {
+   "bugs/crash": 12,
+   "update/regression": 9,
+   "price/subscription": 7,
+   "sync/account/data-loss": 2,
+   "support": 2,
+   "accuracy": 2
+  },
+  "samples": {
+   "price/subscription": [
+    "[1★ 2026-10-26 v4.20] Locks app onto phone before asking for money — If you allow this app to interact with your apple screen time and you have a password set, it will essentially be stuck on your phone before telling you that it’s only a free trial.",
+    "[1★ 2026-10-24 v4.20] The new user interface broke the app — I got this app at the end of last year and it worked fantastically. I paid for a year long subscription, that’s how impressed I was in the way it worked. The new UI came out month ago and the app hasn’t functioned well since. They focused on a complete face lift of the app and got rid of the basic functions that made it great. Rules won’t kick in until I remember I’m supposed to have a time limit ",
+    "[3★ 2026-10-20 v4.20] Helpful but Flawed — Couple does a good job of what it says on the tin in terms of blocking apps. It also affords flexibility for you to exclude apps that you don’t want blocked and to set different rules for filters and scheduling. The UI is reasonably intuitive. However, there’s a lot of overreach by default, utilizing an all-or-nothing kind of approach. For example, if you’ve blocked Facebook, you can’t use any app"
+   ],
+   "bugs/crash": [
+    "[3★ 2026-10-20 v4.20] Helpful but Flawed — Couple does a good job of what it says on the tin in terms of blocking apps. It also affords flexibility for you to exclude apps that you don’t want blocked and to set different rules for filters and scheduling. The UI is reasonably intuitive. However, there’s a lot of overreach by default, utilizing an all-or-nothing kind of approach. For example, if you’ve blocked Facebook, you can’t use any app",
+    "[1★ 2026-10-16 v4.19.1] Highly disappointed there is still no improvement months later. — It has been months since you have updated the UI and yet it still is broken. I have spent months trying to  give this app a chance to fix itself. There were zero problems before your big update. Now it’s slow and doesn’t even lock/unlock when its supposed to which is the app’s whole point. I have to continuously check for updates just to use this app, making yet another chores and nullify the whol",
+    "[1★ 2026-10-15 v4.19.1] holy heck this app is bad now — awful. I used to love opal, but i finally had to delete it because their new version is just sooo glitchy and impossible to use. it is the least user-friendly interface now, and it doesn't even work. i'm switching to a different app for the same purpose, i just can't take opal anymore."
+   ],
+   "update/regression": [
+    "[1★ 2026-10-24 v4.20] The new user interface broke the app — I got this app at the end of last year and it worked fantastically. I paid for a year long subscription, that’s how impressed I was in the way it worked. The new UI came out month ago and the app hasn’t functioned well since. They focused on a complete face lift of the app and got rid of the basic functions that made it great. Rules won’t kick in until I remember I’m supposed to have a time limit ",
+    "[1★ 2026-10-16 v4.19.1] Highly disappointed there is still no improvement months later. — It has been months since you have updated the UI and yet it still is broken. I have spent months trying to  give this app a chance to fix itself. There were zero problems before your big update. Now it’s slow and doesn’t even lock/unlock when its supposed to which is the app’s whole point. I have to continuously check for updates just to use this app, making yet another chores and nullify the whol",
+    "[1★ 2026-10-15 v4.19.1] holy heck this app is bad now — awful. I used to love opal, but i finally had to delete it because their new version is just sooo glitchy and impossible to use. it is the least user-friendly interface now, and it doesn't even work. i'm switching to a different app for the same purpose, i just can't take opal anymore."
+   ],
+   "sync/account/data-loss": [
+    "[1★ 2026-10-26 v4.20] Locks app onto phone before asking for money — If you allow this app to interact with your apple screen time and you have a password set, it will essentially be stuck on your phone before telling you that it’s only a free trial.",
+    "[3★ 2026-10-20 v4.20] Helpful but Flawed — Couple does a good job of what it says on the tin in terms of blocking apps. It also affords flexibility for you to exclude apps that you don’t want blocked and to set different rules for filters and scheduling. The UI is reasonably intuitive. However, there’s a lot of overreach by default, utilizing an all-or-nothing kind of approach. For example, if you’ve blocked Facebook, you can’t use any app"
+   ],
+   "accuracy": [
+    "[3★ 2026-10-05 v4.18] New Version Broken — The old Opal and screen time reports were fantastic, but now with the most recent update it doesn’t appear to be working—the focus reports are not accurately tracking data, the blocks often don’t lock you out within the right timeframe, and it is difficult to find where anything is. If some improvements were made would change my review.",
+    "[1★ 2026-10-02 v4.17] No longer useful, too buggy — This app was great up until mid-2026. Recently introduced updates are incredibly buggy and the new UX is a disaster. App blocking is no longer dependable, stats are inaccurate, and the design is messy. Feels like the developers leaned into AI slop. Very unfortunate. Hate to see a great product fail like this."
+   ],
+   "support": [
+    "[2★ 2026-10-07 v4.18] Too buggy — I like the design but it’s the most buggy app I’ve ever used, and the bugs can often be destructive. I can’t remember how many times I almost rage uninstalled it and eventually I did. For the subscription price it’s outrageous.\nResponse: I actually contacted support before and got a template response that wasn’t helpful at all.",
+    "[2★ 2026-10-01 v3.106] Poor feedback / contact — I actually do appreciate Opal, in general. It’s definitely helped me cut down on screentime. Was disappointed tho, that they’re taking the typical bogus approach to customer service by making themselves as unreachable to customers as possible. All I wanted was to send a quick message to the design team, and got stuck in some loop of community forums. I am not wasting my time on that BS. Seems rath"
+   ]
+  }
+ },
+ {
+  "slug": "picturethis",
+  "name": "PictureThis - Plant Identifier",
+  "seller": "Glority Global Group Ltd.",
+  "price": "Free",
+  "rating": 4.8,
+  "ratingCount": 1124333,
+  "genres": [
+   "Education",
+   "Lifestyle"
+  ],
+  "lastUpdate": "2026-10-29",
+  "released": "2017-07-20",
+  "reviewsFetched": 50,
+  "lowShare": 0.28,
+  "themes": {
+   "price/subscription": 6,
+   "accuracy": 3,
+   "sync/account/data-loss": 2,
+   "update/regression": 1,
+   "bugs/crash": 1,
+   "missing-feature": 1,
+   "ads": 1,
+   "support": 1
+  },
+  "samples": {
+   "price/subscription": [
+    "[1★ 2026-09-13 v5.71.0] Corrupt business practices — I signed up for the 30 day free trial and was charged for there subscription 5 days after I had signed up .  I called Apple support and the Glority global group refused to refund me back , No matter of fact they had send it to the collection bureau!  I consider this Breach of contract and unfair business practices.",
+    "[1★ 2026-09-13 v5.71.0] Not what it’s cracked up to be — While this app has “some benefits”, it’s often inaccurate with watering schedules, diagnosis, etc. I’m going to try it for another year (since I was just billed for it again, annually 🤦🏻‍♀️), but if this app doesn’t improve, I’m definitely canceling my subscription. My mother has the same app and has the exact same complaints about it and we’ve both been plant lovers and carinv for multiple indoor",
+    "[1★ 2026-09-12 v5.71.0] False Promises — They say they will remind you two days before it auto-renews; however, I was given no such notice, and my subscription was auto-renewed without any notice. Moreover, this app misidentifies even common plants, rendering it useless. I have cancelled my subscription."
+   ],
+   "bugs/crash": [
+    "[1★ 2026-09-11 v5.71.0] Not working. — Past 2 weeks the app get to 99% of telling you what the problem is with your\nplant, and then tell you to try again.\nThen it just repeats."
+   ],
+   "update/regression": [
+    "[1★ 2026-09-13 v5.71.0] Corrupt business practices — I signed up for the 30 day free trial and was charged for there subscription 5 days after I had signed up .  I called Apple support and the Glority global group refused to refund me back , No matter of fact they had send it to the collection bureau!  I consider this Breach of contract and unfair business practices."
+   ],
+   "sync/account/data-loss": [
+    "[1★ 2026-09-07 v5.70.1] No Password Reset — I lost my password. It took 3 customer service reps giving me the same instructions to sign in on another device to get the “Forgot Password” screen before I finally realized they meant a device with a different AppleID. However when I did that, it would not recognize my account email already confirmed by these same 3 reps.  Too much time for an app that’s not that good.",
+    "[1★ 2026-09-06 v5.70.1] They keep taking my money — The program did what it is supposed to do, but I cancelled after a year. I have looked up my account and it looks like if was cancelled, but for the past 2 months, I am still being charged. I have not been able to contact them, as all these subscriptions make it impossible to talk to someone. If you don’t mind a lifetime commitment, then get it, but if you aren’t prepared for that, then don’t get "
+   ],
+   "accuracy": [
+    "[1★ 2026-09-13 v5.71.0] Not what it’s cracked up to be — While this app has “some benefits”, it’s often inaccurate with watering schedules, diagnosis, etc. I’m going to try it for another year (since I was just billed for it again, annually 🤦🏻‍♀️), but if this app doesn’t improve, I’m definitely canceling my subscription. My mother has the same app and has the exact same complaints about it and we’ve both been plant lovers and carinv for multiple indoor",
+    "[1★ 2026-09-12 v5.71.0] False Promises — They say they will remind you two days before it auto-renews; however, I was given no such notice, and my subscription was auto-renewed without any notice. Moreover, this app misidentifies even common plants, rendering it useless. I have cancelled my subscription."
+   ],
+   "support": [
+    "[1★ 2026-09-07 v5.70.1] No Password Reset — I lost my password. It took 3 customer service reps giving me the same instructions to sign in on another device to get the “Forgot Password” screen before I finally realized they meant a device with a different AppleID. However when I did that, it would not recognize my account email already confirmed by these same 3 reps.  Too much time for an app that’s not that good."
+   ],
+   "missing-feature": [
+    "[3★ 2026-09-11 v5.71.0] 'Love the parts I love, but wish it provided more. — I love that it IDs the plant and give advice for sick plants.  However I wish to know what / when to fertilize to help them thrive."
+   ]
+  }
+ },
+ {
+  "slug": "remini",
+  "name": "Remini - AI Photo Enhancer",
+  "seller": "BENDING SPOONS OPERATIONS SPA",
+  "price": "Free",
+  "rating": 4.61,
+  "ratingCount": 360600,
+  "genres": [
+   "Photo & Video",
+   "Utilities"
+  ],
+  "lastUpdate": "2026-11-23",
+  "released": "2019-08-01",
+  "reviewsFetched": 50,
+  "lowShare": 0.4,
+  "themes": {
+   "ads": 9,
+   "price/subscription": 7,
+   "update/regression": 1,
+   "bugs/crash": 1
+  },
+  "samples": {
+   "price/subscription": [
+    "[1★ 2026-10-14 v2.10.221] Shamefully greedy! — Been using this app for years but now they won’t even let you get Into it without paying for a prescription.. I hope everyone at this company looses all their jobs and this app gets taken down because of this petty pay wall BS!",
+    "[1★ 2026-10-13 v2.10.221] Was to be the best — In the past I loved this app but now it keeps prompting me to pay for a membership. No free credits. Soon as I open the app it is asking me to pay and sign up.",
+    "[1★ 2026-10-09 v2.10.220] Use to be good — Use to be a good app but now laggy and slow because they are throwing an ad at you between every click and a pop up every time to join a subscription."
+   ],
+   "ads": [
+    "[2★ 2026-10-15 v2.10.221] Ads — There should be a law against the type and quantity of ads in this app. Shameful.",
+    "[1★ 2026-10-14 v2.10.221] Ridiculous — Used to be able to edit a couple of photos for free after watching an ad. No longer allowed. Not paying ridiculous pricing to edit one or 2 photos every few months.",
+    "[1★ 2026-10-09 v2.10.220] Use to be good — Use to be a good app but now laggy and slow because they are throwing an ad at you between every click and a pop up every time to join a subscription."
+   ],
+   "bugs/crash": [
+    "[1★ 2026-10-09 v2.10.220] Use to be good — Use to be a good app but now laggy and slow because they are throwing an ad at you between every click and a pop up every time to join a subscription."
+   ],
+   "update/regression": [
+    "[1★ 2026-10-14 v2.10.221] Ridiculous — Used to be able to edit a couple of photos for free after watching an ad. No longer allowed. Not paying ridiculous pricing to edit one or 2 photos every few months."
+   ]
+  }
+ },
+ {
+  "slug": "sleepcycle",
+  "name": "Sleep Cycle - Tracker & Sounds",
+  "seller": "Sleep Cycle AB",
+  "price": "Free",
+  "rating": 4.68,
+  "ratingCount": 32591,
+  "genres": [
+   "Health & Fitness",
+   "Lifestyle"
+  ],
+  "lastUpdate": "2026-11-23",
+  "released": "2009-07-23",
+  "reviewsFetched": 50,
+  "lowShare": 0.32,
+  "themes": {
+   "price/subscription": 9,
+   "sync/account/data-loss": 3,
+   "update/regression": 2,
+   "support": 1,
+   "ads": 1,
+   "accuracy": 1,
+   "bugs/crash": 1
+  },
+  "samples": {
+   "price/subscription": [
+    "[1★ 2026-10-20 v6.26.410] bring free version back — i don’t usually leave reviews but i feel ticked off enough to leave one for this app, mostly because it was somehow force deleted from my phone sometime in the last couple of days without my knowledge or consent, and upon redownloading it, now has a paywall. i have been using this app on and off since 2016 and to my knowledge there has always been a free version with less sleep insights and featur",
+    "[1★ 2026-10-18 v6.26.400] No free version — There’s a paywall and no way to go around it. Don’t waste your time",
+    "[3★ 2026-10-17 v6.26.400] It was Great but Goodbye — I used sleep cycle for many years and it was great. I had to say goodbye sadly because of some synchronization issues. It suddenly started to synchronize the day before as the day of sleep. Tried everything recommended online and AI recommendations to fix the issue and now I cant log back into my account. Even with premium subscription it seems to not recognize my email even though I get my subscr"
+   ],
+   "bugs/crash": [
+    "[1★ 2026-10-07 v6.26.391] Heart rate tracker is broken — The heart rate tracker requiring bright lights sucks. It’s dark in the morning and I’m not turning on the bedroom lights to wake up my wife to use it. Move it back to the flashlight side. Probably finding a new app that works like this one used to."
+   ],
+   "update/regression": [
+    "[1★ 2026-10-07 v6.26.391] Heart rate tracker is broken — The heart rate tracker requiring bright lights sucks. It’s dark in the morning and I’m not turning on the bedroom lights to wake up my wife to use it. Move it back to the flashlight side. Probably finding a new app that works like this one used to.",
+    "[1★ 2026-10-06 v6.26.391] Almost useless with current problems — I've been using this app since 2013, but over the last five years or so, it has gradually become useless. During the night, it loses access to the microphone, and during that time, you can't tell if you were sleeping or what is happening there's some sort of problem-solving if you go to the app in the App Store, but it's completely inadequate. I'm not using my phone for anything in the middle of t"
+   ],
+   "sync/account/data-loss": [
+    "[3★ 2026-10-17 v6.26.400] It was Great but Goodbye — I used sleep cycle for many years and it was great. I had to say goodbye sadly because of some synchronization issues. It suddenly started to synchronize the day before as the day of sleep. Tried everything recommended online and AI recommendations to fix the issue and now I cant log back into my account. Even with premium subscription it seems to not recognize my email even though I get my subscr",
+    "[2★ 2026-10-14 v6.26.400] Can’t change my password and no support from this app — I paid to subscribe it, and forgot my password. I tired to reset with my email but never received the reset email. Yes, searched all junk trash folders. I emailed their support team and 3 months later, no response!",
+    "[1★ 2026-10-11 v6.16.2] Cannot Restore Premium Features Anymore — The fact that I had to click through the Try It Free button every day just to enable the features I had paid for years ago was bad enough, now they won’t even let me use those features anymore!\n\nWhat a world we live in where the software you paid for can be disabled remotely one day!"
+   ],
+   "accuracy": [
+    "[1★ 2026-10-12 v6.26.391] Completely Inaccurate — I’m being awakened many times a night due to hot flashes and wanted to track the frequency - I used a hand written log on several nights in addition to the app and the app was so far off as to show I was in deep sleep or REM when I was fully awake. Therefore can’t trust a thing - the data looks cool and is displayed with authority but if it’s not accurate what’s the point"
+   ],
+   "support": [
+    "[2★ 2026-10-14 v6.26.400] Can’t change my password and no support from this app — I paid to subscribe it, and forgot my password. I tired to reset with my email but never received the reset email. Yes, searched all junk trash folders. I emailed their support team and 3 months later, no response!"
+   ]
+  }
+ },
+ {
+  "slug": "strava",
+  "name": "Strava: Run, Bike, Walk",
+  "seller": "Strava Inc.",
+  "price": "Free",
+  "rating": 4.81,
+  "ratingCount": 382141,
+  "genres": [
+   "Health & Fitness",
+   "Sports"
+  ],
+  "lastUpdate": "2026-11-18",
+  "released": "2011-03-24",
+  "reviewsFetched": 100,
+  "lowShare": 0.5,
+  "themes": {
+   "price/subscription": 19,
+   "update/regression": 11,
+   "bugs/crash": 6,
+   "missing-feature": 4,
+   "accuracy": 3,
+   "sync/account/data-loss": 3,
+   "privacy": 2,
+   "ads": 1
+  },
+  "samples": {
+   "price/subscription": [
+    "[2★ 2026-10-18 v485.0.0] Go back to OG Strava — All of the recent updates and “perks” of a Strava subscription are useless… if I wanted to train with Runna, I would have. I don’t want your bad AI workouts. It’s become more of a social app rather than a useful training tool. The user interface has hidden all of the data I’m actually interested in underneath garbage. I set goals and would like to see them easily without having to scroll past junk",
+    "[2★ 2026-10-18 v485.0.0] Impossible to cancel subscription — It took me 15 minutes to figure out how to cancel subscription. Very hard to find intentionally, super tiny blue font in middle of the page. Must click 4 confirmation buttons before it is cancelled. Gross scheme to keep people subscribed. Will be using AllTrails instead.",
+    "[1★ 2026-10-16 v485.0.0] Auto charged $80 for USELESS features, refuse to refund — Strava used to useful for sharing runs but now it just has utterly useless features like “AI insights” that just repeat platitudes to you with 0 useful insight on training. \n\nI got a 3 month subscription for free via adidas after which is auto charged my credit card for a 12 month subscription that they refuse to refund. The metrics and analysis are AWFUL. I already pay for a much better data anal"
+   ],
+   "ads": [
+    "[2★ 2026-09-29 v482.0.0] Fell off in a big way — It, like everything else from the 2010s just kind of sucks now. Now particularly offended that they paywalled some of the best features, but am at over the top  obnoxiousness of the constant ads and placeholders for “premium” everywhere. Like, as in, might be time to move off to another GPS enabled fitness app. Dont need my “friends” on here anyway."
+   ],
+   "bugs/crash": [
+    "[1★ 2026-10-19 v485.0.0] Starting Wrkout lowers sound — Since last update, starting a workout run cuts my sound and lowers the volume when i turn my sound back on… until i kill the app.\nSuch an annoying bug for people who just want a seamless workout experience with the earphone sound ON, undisturbed.",
+    "[3★ 2026-10-18 v485.0.0] so so — Somedays it gives me proper read on my run other days it just freezes",
+    "[3★ 2026-10-12 v484.0.0] Didn’t work today — App crashed while I was running and I lost probably best run ever.   This isn’t the first time it’s happened."
+   ],
+   "update/regression": [
+    "[1★ 2026-10-19 v485.0.0] Starting Wrkout lowers sound — Since last update, starting a workout run cuts my sound and lowers the volume when i turn my sound back on… until i kill the app.\nSuch an annoying bug for people who just want a seamless workout experience with the earphone sound ON, undisturbed.",
+    "[2★ 2026-10-18 v485.0.0] Go back to OG Strava — All of the recent updates and “perks” of a Strava subscription are useless… if I wanted to train with Runna, I would have. I don’t want your bad AI workouts. It’s become more of a social app rather than a useful training tool. The user interface has hidden all of the data I’m actually interested in underneath garbage. I set goals and would like to see them easily without having to scroll past junk",
+    "[1★ 2026-10-16 v485.0.0] Auto charged $80 for USELESS features, refuse to refund — Strava used to useful for sharing runs but now it just has utterly useless features like “AI insights” that just repeat platitudes to you with 0 useful insight on training. \n\nI got a 3 month subscription for free via adidas after which is auto charged my credit card for a 12 month subscription that they refuse to refund. The metrics and analysis are AWFUL. I already pay for a much better data anal"
+   ],
+   "sync/account/data-loss": [
+    "[1★ 2026-10-02 v483.0.0] Latest Update Broke iOS Widgets - one of the main reasons I use the app. — If they’re putting this all behind a paywall, I’m taking my data and deleting my account. You won’t earn a paying sub this way.",
+    "[2★ 2026-09-28 v482.0.0] Hard to cancel — It’s a good app good but I don’t want it right now . The app and website gives you the run around to access your account for subscription details",
+    "[1★ 2026-09-27 v482.0.0] Issue — I ran with my watch and it is refusing to sync from my health app to strava for no reason."
+   ],
+   "accuracy": [
+    "[2★ 2026-10-18 v485.0.0] Poor Wind accuracy — Strava under reports wind conditions by at least 40% on a daily basis versus local weather, wind condition reports  \nThat affects estimated watts.",
+    "[2★ 2026-10-10 v484.0.0] Make “Athlete Intelligence” optional, please. — I cancelled my paid subscription because they added their worthless “athlete intelligence” that is inaccurate and annoying. I like tracking my rides, but I don’t want AI in everything (or anything). I definitely do not want it in my bike rides, you dolts.",
+    "[1★ 2026-10-08 v484.0.0] Doesn’t Track Accurately — I have logged over 1,500 miles in runs on this app. I have over 400 activites (runs) on this app. Needless to say, I was loyal for a long time. Maybe I didn’t care about my stats before, but now that i’m training for a race, I’ve become frustrated with the app for not accurately keeping track of my PR’s. And the support email is NO help. I have an activity on the app that states it’s my 5k PR at 1"
+   ],
+   "privacy": [
+    "[2★ 2026-10-04 v483.0.0] Zero privacy — After getting new phone and setting it up I started receiving notifications from Strava app. Turns out they reset all your settings to received all the notifications of anything “new” they added in the app. How about we start the other way and allow users to turn them off instead of having to sort through menus to find how to turn them all off? That’s a novel idea. Would be 4 stars otherwise with ",
+    "[1★ 2026-10-03 v483.0.0] Location shown in activities — I actually love Strava but recently I was made aware that the location of my runs can be seen even though my profile is private & the map visibility is hidden but it still tells shows the city & state for my runs to my followers. I cannot find where to change this in the privacy controls. I'd love to know how to disable this & will gladly change the app rating if this is possible."
+   ],
+   "missing-feature": [
+    "[3★ 2026-10-14 v485.0.0] On This Day — Please add a toggle to remove this from my feed. It’s quite annoying and serves no purpose. The rest of the app is generally fine.",
+    "[1★ 2026-10-09 v484.0.0] Widget no longer works — Can’t select sport or different metric it just says “no options available” when I try to edit the widget",
+    "[3★ 2026-09-28 v482.0.0] PLEASE ADD ELEVATION GAIN OPTION — Great app. I did like it more when it was a little more barebones but I guess the new data metrics are nice. However, this app would be even better if we could have the option to manually add elevation gain for a treadmill workout in the app itself. I know it’s possible on the web site, but it’s really inconvenient to have to do that when it seems like a simple feature enhancement for the app."
+   ]
+  }
+ },
+ {
+  "slug": "structured",
+  "name": "Structured: Daily Planner Todo",
+  "seller": "unorderly GmbH",
+  "price": "Free",
+  "rating": 4.79,
+  "ratingCount": 169280,
+  "genres": [
+   "Productivity",
+   "Education"
+  ],
+  "lastUpdate": "2026-11-12",
+  "released": "2020-04-09",
+  "reviewsFetched": 100,
+  "lowShare": 0.32,
+  "themes": {
+   "price/subscription": 13,
+   "update/regression": 4,
+   "sync/account/data-loss": 3,
+   "missing-feature": 2,
+   "bugs/crash": 1
+  },
+  "samples": {
+   "price/subscription": [
+    "[1★ 2026-09-19 v4.6.1] Shady Dark UI Nonsense — After upgrading to OS 27, I lost access to Structured Pro and was prompted to sign up for an annual subscription. After using the “help” section on their site, I clicked on the “sign up” banner and scrolled all the way to the bottom of the modal where they had added a “Restore” button in 8 pixel font. Doing that restored the lifetime access that I had paid for.\n\nThanks for telling me what you thin",
+    "[1★ 2026-09-19 v4.6.1] Two day trial is fake — I really wanted to like this, and tried the two-day trial. Unfortunately, in less than a day, I was charged for the full year app, as I d\nHad to cancel 24 hours before my “subscription” was over. That is not a two day trail and a rip off and the developers know it.",
+    "[1★ 2026-09-09 v4.5.5] It’s a Trap — I downloaded this because I lead a busy life and want to make room for what’s important and stay on track. I downloaded this because I needed the structure it promised. I did the free trial, and continued with the subscription plan. For about a week, the alerts helped me stay on track. HOWEVER, after that first week, I stopped getting alerts. It took some time for me to figure that out. I still am"
+   ],
+   "bugs/crash": [
+    "[3★ 2026-09-07 v4.5.5] laptop app is buggy — iphone app works great. usually works well on ipad too. however, the structured app downloaded onto my macbook is buggy. doesnt let me type seamlessly and constantly glitches. i often have to re-rype the title of event event multiple times and severely reduces my likelihood to use the app for the purpose it was intended. if mac app bugs are fixed, this app is a dream!! please fix!!"
+   ],
+   "update/regression": [
+    "[3★ 2026-09-17 v4.6.0] Good but can be better — I only need one app to help me organize my goal/dream instead of uncountable tasks. But only ReNext does really care about it. Update: I have different goals in life and work, and each goal has been split into multiple tasks. But on the home page, everything was disrupted and made me confused. How to make my thoughts clear is a challenge.",
+    "[1★ 2026-09-08 v4.5.5] Great potential. — Okay is it just me or do I think they need to let us repeat tasks without having to pay? Honestly, I hope the developer sees this. It used to be free. I used to use this app ALL the time. And now we can’t even repeat?",
+    "[1★ 2026-08-25 v4.5.4] Paywall!!! — This app used to be my go-to. I stopped using it for about a year or so. I came back and everything is blocked via subscription!!! I can’t put anything on repeat which actually beats the whole purpose of downloading the app. If I wanted to things separately daily I would just use my calendar app!"
+   ],
+   "sync/account/data-loss": [
+    "[1★ 2026-09-21 v4.6.1] Sketchy — Starts running in background and trying to make network connections on system startup, but the app doesn’t show up in System Settings Login Items or Background App Activity. There’s also no option in app Preferences to turn off launching the app at system startup.",
+    "[1★ 2026-09-19 v4.6.1] Shady Dark UI Nonsense — After upgrading to OS 27, I lost access to Structured Pro and was prompted to sign up for an annual subscription. After using the “help” section on their site, I clicked on the “sign up” banner and scrolled all the way to the bottom of the modal where they had added a “Restore” button in 8 pixel font. Doing that restored the lifetime access that I had paid for.\n\nThanks for telling me what you thin",
+    "[3★ 2026-09-14 v4.6.0] Tasks disappear — The app was great overall, however, the reason for 3 stars instead of 5 is that there have been several instances where majority of the tasks I had set up would disappear over the few years I’ve had the app. It’s good they have an iCloud system that helps with backup, but it still doesn’t explain why my tasks have  disappeared after entry. Other than that, it was my daily go to."
+   ],
+   "missing-feature": [
+    "[1★ 2026-09-21 v4.6.1] Sketchy — Starts running in background and trying to make network connections on system startup, but the app doesn’t show up in System Settings Login Items or Background App Activity. There’s also no option in app Preferences to turn off launching the app at system startup.",
+    "[2★ 2026-08-13 v4.5.3] Unusable — Can’t use it cause there’s no normal repeat feature-what’s the point in making an online planner if you can’t repeat events ..? Super cute and clean though rlly wish I could use it"
+   ]
+  }
+ },
+ {
+  "slug": "tide",
+  "name": "潮汐 - 睡眠监测、助眠冥想、梦话打鼾、白噪音、HRV压力",
+  "seller": "Guangzhou Moreless Network Technology Co., Ltd",
+  "price": "免费",
+  "rating": 4.85,
+  "ratingCount": 152907,
+  "genres": [
+   "健康健美",
+   "效率"
+  ],
+  "lastUpdate": "2026-11-20",
+  "released": "2016-02-16",
+  "reviewsFetched": 0,
+  "lowShare": null,
+  "themes": {},
+  "samples": {}
+ },
+ {
+  "slug": "widgetsmith",
+  "name": "Widgetsmith",
+  "seller": "Cross Forward Consulting, LLC",
+  "price": "Free",
+  "rating": 4.61,
+  "ratingCount": 782236,
+  "genres": [
+   "Productivity",
+   "Utilities"
+  ],
+  "lastUpdate": "2026-11-05",
+  "released": "2020-09-16",
+  "reviewsFetched": 50,
+  "lowShare": 0.16,
+  "themes": {
+   "price/subscription": 2,
+   "ads": 1,
+   "bugs/crash": 1
+  },
+  "samples": {
+   "price/subscription": [
+    "[3★ 2026-10-17 v8.7] Needs improvement — Paid customer for 2 years. The interactive weather widgets always lag and take 7-10 seconds to register a touch/swipe. Also, they need to add a clear background option to widgets on the iPad version, like they have for the iPhone version",
+    "[1★ 2026-10-14 v8.7] Free trial? — I attempted to create a widget then add it to the Home Screen. After creating the widget in the app and adding it to my Home Screen, I discovered that the widget was a blue screen placeholder. Do they want you to put in a credit card number for a subscription to test the app? No chance."
+   ],
+   "ads": [
+    "[1★ 2026-10-25 v8.7] This app is the WORST — If u read the title ill explain its the WORST BECAUSE U GET BOMBARDAED WITH ADS AND WHEN I TRY TO MAKE A WIDGET SUDDENLY IT DOESNT HAVE ANY PHOTOS AND I TREID OKAYBUT THIS SUCKS SO WHO HAS A TUT FOR IPAD A 16"
+   ],
+   "bugs/crash": [
+    "[3★ 2026-10-17 v8.7] Needs improvement — Paid customer for 2 years. The interactive weather widgets always lag and take 7-10 seconds to register a touch/swipe. Also, they need to add a clear background option to widgets on the iPad version, like they have for the iPhone version"
+   ]
+  }
+ },
+ {
+  "slug": "yuka",
+  "name": "Yuka - Food & Cosmetic Scanner",
+  "seller": "Yuca",
+  "price": "Free",
+  "rating": 4.82,
+  "ratingCount": 102724,
+  "genres": [
+   "Health & Fitness",
+   "Food & Drink"
+  ],
+  "lastUpdate": "2026-11-12",
+  "released": "2017-01-09",
+  "reviewsFetched": 50,
+  "lowShare": 0.18,
+  "themes": {
+   "price/subscription": 2,
+   "accuracy": 2,
+   "update/regression": 1
+  },
+  "samples": {
+   "price/subscription": [
+    "[3★ 2026-10-14 v5.8] Could Be Better — This app is lazy. Don’t get me wrong, it’s great if you’re just scanning products. However don’t waste your money paying for premium to enable the search.\n\nWhat you get is a mostly unfiltered and unsorted list of random products. For some reason the text is in French. I see nothing in the settings for language choice.\n\nAnd then you’re getting a list of worldwide products. That’s great that Canada "
+   ],
+   "update/regression": [
+    "[3★ 2026-10-08 v5.8] Needs update — There needs to be an update where you can set preferences as to what default page opens. For example setting an item scan as the default instead of history which makes little to no sense. And by update I’m not talking about adding the Liquid Glass design"
+   ],
+   "accuracy": [
+    "[3★ 2026-10-14 v5.8] Could Be Better — This app is lazy. Don’t get me wrong, it’s great if you’re just scanning products. However don’t waste your money paying for premium to enable the search.\n\nWhat you get is a mostly unfiltered and unsorted list of random products. For some reason the text is in French. I see nothing in the settings for language choice.\n\nAnd then you’re getting a list of worldwide products. That’s great that Canada ",
+    "[1★ 2026-10-08 v5.7] I also believed that the app is reliable but — At first, I loved this app until unfortunately, I came across  researchers including dermatologists who have found this app to be inaccurate since it takes the research that has been conducted on ingredients, and takes the information about them out of context which results in an inaccurate scoring :("
+   ]
+  }
+ }
+]

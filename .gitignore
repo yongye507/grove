@@ -1,0 +1,33 @@
+# Xcode
+DerivedData/
+build/
+*.xcuserstate
+xcuserdata/
+*.xccheckout
+*.xcscmblueprint
+*.moved-aside
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+timeline.xctimeline
+playground.xcworkspace
+
+# Swift Package
+.swiftpm/
+Packages/
+Package.resolved
+*.xcodeproj/project.xcworkspace/xcshareddata/swiftpm/
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# App / secrets
+*.mobileprovision
+*.p12
+.env
+.env.*
+
+# Simulator / verification dumps (optional keep — ignore large local screenshots)
+ios/verification/
