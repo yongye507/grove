@@ -24,6 +24,8 @@ settings:
     INFOPLIST_KEY_UIRequiresFullScreen: YES
     INFOPLIST_KEY_UISupportedInterfaceOrientations: UIInterfaceOrientationPortrait
     INFOPLIST_KEY_NSUserNotificationsUsageDescription: Grove notifies you when a focus session ends.
+    # No custom/non-exempt encryption: skips the export-compliance prompt on every upload.
+    INFOPLIST_KEY_ITSAppUsesNonEncryptionExports: NO
     PRODUCT_BUNDLE_IDENTIFIER: com.grove.focus
 targets:
   Grove:

@@ -53,7 +53,8 @@ struct PrivacyPolicyView: View {
         .navigationBarTitleDisplayMode(.inline)
     }
 
-    private func section(_ title: String, _ body: String) -> some View {
+    // LocalizedStringKey so title/body resolve through Localizable.xcstrings (en / zh-Hans).
+    private func section(_ title: LocalizedStringKey, _ body: LocalizedStringKey) -> some View {
         VStack(alignment: .leading, spacing: 6) {
             Text(title)
                 .font(.headline)
