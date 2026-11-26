@@ -12,7 +12,7 @@
 | 3 | 去掉 Paywall 模拟器调试文案 | **完成** | 加载中 / 失败态生产文案 |
 | 4 | App Icon（含 1024） | **完成** | `AppIcon.appiconset/AppIcon.png`（可再人工精修） |
 | 5 | 版本号改为 1.0.0 | **完成** | `project.yml` MARKETING_VERSION |
-| 6 | 隐私政策（App 内全文 + 公网页） | **App 内完成；Gitee 待开 Pages** | 仓库 `docs/privacy.html`；远端 `git@gitee.com:yongye507/grove.git`；预期 URL：`https://yongye507.gitee.io/grove/privacy.html` |
+| 6 | 隐私政策（App 内全文 + 公网页） | **App 内完成；GitHub Pages 待开启** | 远端 `git@github.com:yongye507/grove.git`；开启 Pages（分支 `main` / 目录 `/docs`）后 URL：`https://yongye507.github.io/grove/privacy.html` |
 | 7 | Privacy Nutrition Labels / PrivacyInfo | **部分完成** | 工程已加 `PrivacyInfo.xcprivacy`（无收集）；Connect 标签仍需你勾选 |
 | 8 | DEVELOPMENT_TEAM + Archive | 待办 | 真机签名（需你的 Apple Team） |
 | 9 | ASC 创建 Non-Consumable IAP | 待办 | `com.grove.focus.lifetime` |
