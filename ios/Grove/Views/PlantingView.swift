@@ -158,7 +158,7 @@ struct PlantingView: View {
                     TreeGrowthView(
                         progress: 0.32,
                         wilted: false,
-                        speciesName: TreeCatalog.species(id: speciesId)?.name ?? "Tree",
+                        speciesName: TreeCatalog.species(id: speciesId)?.localizedName ?? String(localized: "Tree"),
                         speciesId: speciesId,
                         compact: true
                     )
@@ -177,7 +177,7 @@ struct PlantingView: View {
             }
             .foregroundStyle(GroveTheme.inkMuted)
 
-            Text(TreeCatalog.species(id: speciesId)?.name ?? "Tree")
+            Text(TreeCatalog.species(id: speciesId)?.localizedName ?? String(localized: "Tree"))
                 .font(.system(.title3, design: .serif).weight(.medium))
                 .foregroundStyle(GroveTheme.ink)
 
@@ -217,7 +217,7 @@ struct PlantingView: View {
                                 size: .chip
                             )
                             .frame(width: 22, height: 26)
-                            Text(s.name)
+                            Text(s.localizedName)
                             if locked {
                                 Image(systemName: "lock.fill")
                                     .font(.system(size: 9))
@@ -248,7 +248,7 @@ struct PlantingView: View {
                         Button {
                             tagId = tag.id
                         } label: {
-                            Text(tag.name)
+                            Text(LocalizedStringKey(tag.name))
                                 .font(.caption.weight(.semibold))
                                 .padding(.horizontal, 12)
                                 .padding(.vertical, 6)
@@ -308,7 +308,7 @@ struct PlantingView: View {
             TreeGrowthView(
                 progress: progress,
                 wilted: wiltVisual,
-                speciesName: TreeCatalog.species(id: activeSpecies)?.name ?? "Tree",
+                speciesName: TreeCatalog.species(id: activeSpecies)?.localizedName ?? String(localized: "Tree"),
                 speciesId: activeSpecies
             )
             .frame(maxWidth: 260)
@@ -326,7 +326,7 @@ struct PlantingView: View {
                 .animation(.easeInOut(duration: 0.35), value: wiltVisual)
 
             VStack(spacing: 6) {
-                Text(stage.rawValue)
+                Text(stage.localizedTitle)
                     .font(.system(.headline, design: .serif).weight(.semibold))
                     .foregroundStyle(wiltVisual ? GroveTheme.wiltLeaf : GroveTheme.mossDeep)
                     .contentTransition(.numericText())

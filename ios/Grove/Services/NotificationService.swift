@@ -16,8 +16,10 @@ enum NotificationService {
         center.removePendingNotificationRequests(withIdentifiers: [sessionEndId])
 
         let content = UNMutableNotificationContent()
-        content.title = "Fully grown"
-        content.body = "Your \(durationMinutes)-minute tree finished growing — see it in Grove."
+        content.title = String(localized: "Fully grown")
+        content.body = String(
+            localized: "Your \(durationMinutes)-minute tree finished growing — see it in Grove."
+        )
         // Default alert sound; follows system notification volume / mute settings.
         content.sound = .default
 

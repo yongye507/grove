@@ -54,9 +54,12 @@ struct WeekPlotView: View {
             .frame(height: 228)
 
             HStack(spacing: 16) {
-                stat("Grown", value: "\(week.grownCount)")
-                stat("Wilted", value: "\(week.wiltedCount)")
-                stat("Focus", value: "\(week.focusedMinutes)m")
+                stat(String(localized: "Grown"), value: "\(week.grownCount)")
+                stat(String(localized: "Wilted"), value: "\(week.wiltedCount)")
+                stat(
+                    String(localized: "Focus"),
+                    value: String(localized: "\(week.focusedMinutes)m")
+                )
                 Spacer()
             }
             .padding(.horizontal, 4)
@@ -65,8 +68,8 @@ struct WeekPlotView: View {
 
     private var legend: some View {
         HStack(spacing: 14) {
-            legendItem(wilted: false, title: "Grown — finished focus")
-            legendItem(wilted: true, title: "Wilted — left early")
+            legendItem(wilted: false, title: String(localized: "Grown — finished focus"))
+            legendItem(wilted: true, title: String(localized: "Wilted — left early"))
             Spacer(minLength: 0)
         }
         .padding(.horizontal, 2)
@@ -174,7 +177,13 @@ private struct DayPlotCell: View {
         }
         .frame(maxWidth: .infinity)
         .accessibilityElement(children: .combine)
-        .accessibilityLabel("\(bed.weekdaySymbol) \(allTrees.count) trees")
-        .accessibilityHint(allTrees.count > 3 ? "Scroll inside the bed, or tap for the full list" : "Tap for details")
+        .accessibilityLabel(
+            String(localized: "\(bed.weekdaySymbol) \(allTrees.count) trees")
+        )
+        .accessibilityHint(
+            allTrees.count > 3
+                ? String(localized: "Scroll inside the bed, or tap for the full list")
+                : String(localized: "Tap for details")
+        )
     }
 }

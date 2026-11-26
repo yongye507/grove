@@ -9,7 +9,7 @@ struct SessionOutcomeCard: View {
     @State private var appeared = false
 
     private var speciesName: String {
-        TreeCatalog.species(id: outcome.speciesId)?.name ?? "Tree"
+        TreeCatalog.species(id: outcome.speciesId)?.localizedName ?? String(localized: "Tree")
     }
 
     private var isGrown: Bool { outcome.kind == .grown }
@@ -24,7 +24,7 @@ struct SessionOutcomeCard: View {
                 Spacer(minLength: 16)
 
                 VStack(spacing: 12) {
-                    Text(isGrown ? "Fully grown" : "Wilted")
+                    Text(isGrown ? String(localized: "Fully grown") : String(localized: "Wilted"))
                         .font(.system(.title2, design: .serif).weight(.semibold))
                         .foregroundStyle(GroveTheme.ink)
 
@@ -50,8 +50,12 @@ struct SessionOutcomeCard: View {
 
                         Text(
                             isGrown
-                                ? "\(outcome.durationSec / 60) min focus · planted in your Grove"
-                                : "You left too long — this tree wilted in your Grove"
+                                ? String(
+                                    localized: "\(outcome.durationSec / 60) min focus · planted in your Grove"
+                                  )
+                                : String(
+                                    localized: "You left too long — this tree wilted in your Grove"
+                                  )
                         )
                         .font(.subheadline)
                         .foregroundStyle(GroveTheme.inkMuted)
@@ -74,7 +78,10 @@ struct SessionOutcomeCard: View {
                         }
                         .buttonStyle(.plain)
 
-                        Button(isGrown ? "Plant another" : "Try again", action: onContinue)
+                        Button(
+                            isGrown ? String(localized: "Plant another") : String(localized: "Try again"),
+                            action: onContinue
+                        )
                             .font(.subheadline.weight(.semibold))
                             .foregroundStyle(isGrown ? GroveTheme.mossDeep : GroveTheme.inkMuted)
                             .padding(.top, 2)

@@ -54,7 +54,7 @@ final class StoreService {
     func purchaseLifetime() async -> Bool {
         guard let product = products.first(where: { $0.id == GroveProductID.lifetime })
                 ?? products.first else {
-            lastError = "Lifetime product unavailable. Check StoreKit config."
+            lastError = String(localized: "Lifetime product unavailable. Check StoreKit config.")
             return false
         }
         isPurchasing = true
@@ -64,7 +64,7 @@ final class StoreService {
             switch result {
             case .success(let verification):
                 guard case .verified(let transaction) = verification else {
-                    lastError = "Purchase could not be verified."
+                    lastError = String(localized: "Purchase could not be verified.")
                     return false
                 }
                 hasLifetimeEntitlement = true

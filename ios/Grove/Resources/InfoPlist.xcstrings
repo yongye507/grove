@@ -1,0 +1,24 @@
+{
+  "sourceLanguage": "en",
+  "version": "1.0",
+  "strings": {
+    "NSUserNotificationsUsageDescription": {
+      "comment": "Permission prompt for local focus-end notifications.",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Grove notifies you when a focus session ends."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Grove 会在专注结束时通知你。"
+          }
+        }
+      }
+    }
+  }
+}

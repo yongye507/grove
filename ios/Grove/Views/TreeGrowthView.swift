@@ -21,6 +21,6 @@ struct TreeGrowthView: View {
         .clipped()
         .animation(.easeInOut(duration: 0.55), value: clamped)
         .animation(.easeInOut(duration: 0.45), value: wilted)
-        .accessibilityLabel("\(speciesName), \(stage.rawValue)")
+        .accessibilityLabel("\(speciesName), \(stage.localizedTitle)")
     }
 }

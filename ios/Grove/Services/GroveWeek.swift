@@ -7,14 +7,15 @@ struct GroveDayBed: Identifiable {
 
     var weekdaySymbol: String {
         let f = DateFormatter()
-        f.locale = Locale(identifier: "en_US_POSIX")
-        f.dateFormat = "EEE"
+        f.locale = .autoupdatingCurrent
+        f.setLocalizedDateFormatFromTemplate("EEE")
         return f.string(from: date)
     }
 
     var dayNumber: String {
         let f = DateFormatter()
-        f.dateFormat = "d"
+        f.locale = .autoupdatingCurrent
+        f.setLocalizedDateFormatFromTemplate("d")
         return f.string(from: date)
     }
 
@@ -35,9 +36,10 @@ struct GroveWeek: Identifiable {
 
     var title: String {
         let f = DateFormatter()
-        f.dateFormat = "MMM d"
+        f.locale = .autoupdatingCurrent
+        f.setLocalizedDateFormatFromTemplate("MMMd")
         let startText = f.string(from: start)
-        f.dateFormat = "MMM d, yyyy"
+        f.setLocalizedDateFormatFromTemplate("MMMdyyyy")
         let endText = f.string(from: end)
         return "\(startText) – \(endText)"
     }

@@ -10,10 +10,16 @@ enum StatsRange: String, CaseIterable, Identifiable {
     /// Free tier only gets Week.
     var requiresUnlock: Bool { self != .week }
 
+    var title: String {
+        String(localized: String.LocalizationValue(rawValue))
+    }
+
     var chartTitle: String {
         switch self {
-        case .week, .month: return "Daily focus"
-        case .year: return "Monthly focus"
+        case .week, .month:
+            return String(localized: "Daily focus")
+        case .year:
+            return String(localized: "Monthly focus")
         }
     }
 }

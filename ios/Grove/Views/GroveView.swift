@@ -104,9 +104,9 @@ struct GroveView: View {
 
     private var weekTitle: String {
         let f = DateFormatter()
-        f.dateFormat = "MMM d"
+        f.locale = .autoupdatingCurrent
+        f.setLocalizedDateFormatFromTemplate("MMMd")
         let a = f.string(from: week.start)
-        f.dateFormat = "MMM d"
         let b = f.string(from: week.end)
         return "\(a) – \(b)"
     }
@@ -161,7 +161,9 @@ struct GroveView: View {
                             .font(.caption.weight(.bold))
                             .foregroundStyle(GroveTheme.mossDeep)
                             .frame(width: 36)
-                        Text("\(bed.grown.count) grown · \(bed.wilted.count) wilted · \(bed.focusedMinutes)m")
+                        Text(
+                            "\(bed.grown.count) grown · \(bed.wilted.count) wilted · \(bed.focusedMinutes)m"
+                        )
                             .font(.subheadline)
                             .foregroundStyle(GroveTheme.ink)
                         Spacer()
@@ -221,7 +223,8 @@ struct GroveView: View {
 
     private func dayDetailTitle(_ bed: GroveDayBed) -> String {
         let f = DateFormatter()
-        f.dateFormat = "EEEE, MMM d"
+        f.locale = .autoupdatingCurrent
+        f.setLocalizedDateFormatFromTemplate("EEEEMMMd")
         return f.string(from: bed.date)
     }
 
@@ -236,7 +239,10 @@ struct GroveView: View {
             .frame(width: 40, height: 44)
 
             VStack(alignment: .leading, spacing: 2) {
-                Text(TreeCatalog.species(id: session.speciesId)?.name ?? session.speciesId)
+                Text(
+                    TreeCatalog.species(id: session.speciesId)?.localizedName
+                        ?? session.speciesId
+                )
                     .font(.subheadline.weight(.semibold))
                     .foregroundStyle(GroveTheme.ink)
                 Text(sessionSubtitle(session))
@@ -244,7 +250,7 @@ struct GroveView: View {
                     .foregroundStyle(GroveTheme.inkMuted)
             }
             Spacer()
-            Text("\(session.durationSec / 60)m")
+            Text(String(localized: "\(session.durationSec / 60)m"))
                 .font(.subheadline.monospacedDigit().weight(.medium))
                 .foregroundStyle(GroveTheme.inkMuted)
         }
@@ -253,12 +259,16 @@ struct GroveView: View {
 
     private func sessionSubtitle(_ session: FocusSession) -> String {
         let f = DateFormatter()
+        f.locale = .autoupdatingCurrent
         f.timeStyle = .short
         let time = f.string(from: session.startedAt)
         switch session.status {
-        case .succeeded: return "Grown · \(time)"
-        case .failed: return "Wilted · \(time)"
-        default: return "\(session.status.rawValue) · \(time)"
+        case .succeeded:
+            return String(localized: "Grown · \(time)")
+        case .failed:
+            return String(localized: "Wilted · \(time)")
+        default:
+            return "\(session.status.rawValue) · \(time)"
         }
     }
 }

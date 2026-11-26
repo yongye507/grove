@@ -56,9 +56,9 @@ struct SettingsView: View {
                             if store.hasLifetimeEntitlement {
                                 settings?.lifetimeUnlocked = true
                                 try? modelContext.save()
-                                restoreMessage = "Purchases restored."
+                                restoreMessage = String(localized: "Purchases restored.")
                             } else {
-                                restoreMessage = "No lifetime purchase found."
+                                restoreMessage = String(localized: "No lifetime purchase found.")
                             }
                         }
                     }

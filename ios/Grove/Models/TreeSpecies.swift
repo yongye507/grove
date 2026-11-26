@@ -3,9 +3,14 @@ import Foundation
 /// Catalog entry (not persisted as SwiftData — bundled constants).
 struct TreeSpecies: Identifiable, Hashable, Sendable {
     let id: String
+    /// English source name; use `localizedName` in UI.
     let name: String
     let isFree: Bool
     let assetKey: String
+
+    var localizedName: String {
+        String(localized: String.LocalizationValue(name))
+    }
 }
 
 enum TreeCatalog {

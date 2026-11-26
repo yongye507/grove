@@ -12,6 +12,7 @@
 		09934224A67DC2EFD3361E8F /* NotificationService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16CFA917B4700F3061DBF94E /* NotificationService.swift */; };
 		1109C86BBCBECDF921718FC8 /* TreeSpecies.swift in Sources */ = {isa = PBXBuildFile; fileRef = 694B5C0B23004C4A3FD8DEC2 /* TreeSpecies.swift */; };
 		1502E86930925FEAF1BD9CCB /* GroveView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C629C51E47B343CEFFED1F04 /* GroveView.swift */; };
+		180BD88723A07055E9526B95 /* InfoPlist.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = D953814E4CD951BDFD2C180B /* InfoPlist.xcstrings */; };
 		25354B1FFFD40CBDBC9C0303 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FF795587A605819629CB3010 /* Assets.xcassets */; };
 		2B9905940C3457269FBBCD4E /* GroveWeek.swift in Sources */ = {isa = PBXBuildFile; fileRef = A96D9B6221EC005786A761B5 /* GroveWeek.swift */; };
 		306F1F86F831A0970786F5DE /* DurationDialView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE6FD0EDBB382CA69F7DFBD4 /* DurationDialView.swift */; };
@@ -22,6 +23,7 @@
 		590961017F941C1A323BD4E4 /* FocusTag.swift in Sources */ = {isa = PBXBuildFile; fileRef = A245EB9B33E758BEE87C58B3 /* FocusTag.swift */; };
 		5AFC9EC51609591F0AB2D251 /* WeekPlotView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 022292AAB4EA9E6BC24B5ED4 /* WeekPlotView.swift */; };
 		5CEECD156B59DE4AC0B8BF45 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 907D47D7F0BA85D9FC2762BA /* PrivacyInfo.xcprivacy */; };
+		622A655047C68B1C3F6D7D7B /* Localizable.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = 524BCA5A402AAE2388C418F6 /* Localizable.xcstrings */; };
 		6D4A132B31DBD35EFF29C4AF /* StatsAnalytics.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A5F03D801A4970E9F0B9883 /* StatsAnalytics.swift */; };
 		6DBC6479921D42545E548503 /* RootTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0391AB36539D1D5CE567B10 /* RootTabView.swift */; };
 		717A8517C22CD1EB788660BA /* DeskPaperBackground.swift in Sources */ = {isa = PBXBuildFile; fileRef = E41F57F979970C30FBDD64B6 /* DeskPaperBackground.swift */; };
@@ -48,6 +50,7 @@
 		3ABE038753FE982B33C15FE0 /* Grove.app */ = {isa = PBXFileReference; includeInIndex = 0; lastKnownFileType = wrapper.application; path = Grove.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		49659B5B200B186458B84739 /* SessionOutcomeCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SessionOutcomeCard.swift; sourceTree = "<group>"; };
 		4A5F03D801A4970E9F0B9883 /* StatsAnalytics.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatsAnalytics.swift; sourceTree = "<group>"; };
+		524BCA5A402AAE2388C418F6 /* Localizable.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = Localizable.xcstrings; sourceTree = "<group>"; };
 		55E29C3AA17CD7BF08185B4C /* FocusSession.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FocusSession.swift; sourceTree = "<group>"; };
 		6177703B1E01F9BB8381B484 /* SessionEngine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SessionEngine.swift; sourceTree = "<group>"; };
 		694B5C0B23004C4A3FD8DEC2 /* TreeSpecies.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TreeSpecies.swift; sourceTree = "<group>"; };
@@ -64,6 +67,7 @@
 		B0391AB36539D1D5CE567B10 /* RootTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RootTabView.swift; sourceTree = "<group>"; };
 		BE6FD0EDBB382CA69F7DFBD4 /* DurationDialView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DurationDialView.swift; sourceTree = "<group>"; };
 		C629C51E47B343CEFFED1F04 /* GroveView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GroveView.swift; sourceTree = "<group>"; };
+		D953814E4CD951BDFD2C180B /* InfoPlist.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = InfoPlist.xcstrings; sourceTree = "<group>"; };
 		E17D5EA22CB637B8D0380CE6 /* GroveStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GroveStore.swift; sourceTree = "<group>"; };
 		E41F57F979970C30FBDD64B6 /* DeskPaperBackground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeskPaperBackground.swift; sourceTree = "<group>"; };
 		F576E935E097B835D0A03619 /* CompletionFeedback.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CompletionFeedback.swift; sourceTree = "<group>"; };
@@ -133,6 +137,8 @@
 			isa = PBXGroup;
 			children = (
 				FF795587A605819629CB3010 /* Assets.xcassets */,
+				D953814E4CD951BDFD2C180B /* InfoPlist.xcstrings */,
+				524BCA5A402AAE2388C418F6 /* Localizable.xcstrings */,
 				907D47D7F0BA85D9FC2762BA /* PrivacyInfo.xcprivacy */,
 				815CE5EAEEB84F45CD6E8F82 /* Products.storekit */,
 			);
@@ -203,7 +209,7 @@
 				LastUpgradeCheck = 1600;
 				TargetAttributes = {
 					9C57E594A837DC8048757E52 = {
-						DevelopmentTeam = "";
+						DevelopmentTeam = FH4DFRTFXF;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -214,6 +220,7 @@
 			knownRegions = (
 				Base,
 				en,
+				"zh-Hans",
 			);
 			mainGroup = 2FC6B0FBBAA5852DE2AE92CD;
 			minimizedProjectReferenceProxies = 1;
@@ -233,6 +240,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				25354B1FFFD40CBDBC9C0303 /* Assets.xcassets in Resources */,
+				180BD88723A07055E9526B95 /* InfoPlist.xcstrings in Resources */,
+				622A655047C68B1C3F6D7D7B /* Localizable.xcstrings in Resources */,
 				5CEECD156B59DE4AC0B8BF45 /* PrivacyInfo.xcprivacy in Resources */,
 				A5CDC6D8F0E0A360C54872C8 /* Products.storekit in Resources */,
 			);
@@ -334,6 +343,7 @@
 				INFOPLIST_KEY_NSUserNotificationsUsageDescription = "Grove notifies you when a focus session ends.";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UIRequiresFullScreen = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
 				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
 				MARKETING_VERSION = 1.0.0;
@@ -357,8 +367,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = "";
-				INFOPLIST_KEY_UISupportsDocumentBrowser = NO;
+				DEVELOPMENT_TEAM = FH4DFRTFXF;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -421,6 +430,7 @@
 				INFOPLIST_KEY_NSUserNotificationsUsageDescription = "Grove notifies you when a focus session ends.";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UIRequiresFullScreen = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
 				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
 				MARKETING_VERSION = 1.0.0;
@@ -443,8 +453,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = "";
-				INFOPLIST_KEY_UISupportsDocumentBrowser = NO;
+				DEVELOPMENT_TEAM = FH4DFRTFXF;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",

@@ -7,6 +7,10 @@ enum TreeStage: String {
     case mature = "Fully grown"
     case wilted = "Wilted"
 
+    var localizedTitle: String {
+        String(localized: String.LocalizationValue(rawValue))
+    }
+
     static func from(progress: Double, wilted: Bool) -> TreeStage {
         if wilted { return .wilted }
         switch min(max(progress, 0), 1) {
@@ -39,7 +43,7 @@ struct TreeArt: View {
         Canvas { context, canvasSize in
             draw(in: &context, width: canvasSize.width, height: canvasSize.height)
         }
-        .accessibilityLabel("\(speciesId) \(stage.rawValue)")
+        .accessibilityLabel("\(TreeCatalog.species(id: speciesId)?.localizedName ?? speciesId), \(stage.localizedTitle)")
     }
 
     private func draw(in context: inout GraphicsContext, width: CGFloat, height: CGFloat) {

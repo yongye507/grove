@@ -82,7 +82,7 @@ struct StatsView: View {
                     }
                 } label: {
                     HStack(spacing: 4) {
-                        Text(item.rawValue)
+                        Text(item.title)
                         if locked {
                             Image(systemName: "lock.fill")
                                 .font(.system(size: 9))
@@ -107,9 +107,23 @@ struct StatsView: View {
 
     private var summaryRow: some View {
         HStack(spacing: 10) {
-            summaryTile(title: "Focus", value: "\(snapshot.focusedMinutes)m", subtitle: range.rawValue.lowercased())
-            summaryTile(title: "Grown", value: "\(snapshot.grownCount)", subtitle: "trees")
-            summaryTile(title: "Streak", value: "\(snapshot.streakDays)", subtitle: snapshot.streakDays == 1 ? "day" : "days")
+            summaryTile(
+                title: String(localized: "Focus"),
+                value: String(localized: "\(snapshot.focusedMinutes)m"),
+                subtitle: range.title
+            )
+            summaryTile(
+                title: String(localized: "Grown"),
+                value: "\(snapshot.grownCount)",
+                subtitle: String(localized: "trees")
+            )
+            summaryTile(
+                title: String(localized: "Streak"),
+                value: "\(snapshot.streakDays)",
+                subtitle: snapshot.streakDays == 1
+                    ? String(localized: "day")
+                    : String(localized: "days")
+            )
         }
     }
 
@@ -159,11 +173,13 @@ struct StatsView: View {
                 Chart(snapshot.points) { point in
                     BarMark(
                         x: .value(
-                            range == .year ? "Month" : "Day",
+                            range == .year
+                                ? String(localized: "Month")
+                                : String(localized: "Day"),
                             point.date,
                             unit: range == .year ? .month : .day
                         ),
-                        y: .value("Minutes", point.focusedMinutes)
+                        y: .value(String(localized: "Minutes"), point.focusedMinutes)
                     )
                     .foregroundStyle(
                         LinearGradient(
@@ -243,9 +259,9 @@ struct StatsView: View {
             .frame(height: 14)
 
             HStack {
-                legendDot(color: GroveTheme.moss, title: "Grown", value: "\(grown)")
+                legendDot(color: GroveTheme.moss, title: String(localized: "Grown"), value: "\(grown)")
                 Spacer()
-                legendDot(color: GroveTheme.wiltLeaf, title: "Wilted", value: "\(wilted)")
+                legendDot(color: GroveTheme.wiltLeaf, title: String(localized: "Wilted"), value: "\(wilted)")
                 Spacer()
                 VStack(alignment: .trailing, spacing: 2) {
                     Text("Stay rate")
@@ -307,11 +323,11 @@ struct StatsView: View {
 
                         VStack(alignment: .leading, spacing: 4) {
                             HStack {
-                                Text(item.name)
+                                Text(String(localized: String.LocalizationValue(item.name)))
                                     .font(.subheadline.weight(.semibold))
                                     .foregroundStyle(GroveTheme.ink)
                                 Spacer()
-                                Text("\(item.grownCount) · \(item.focusedMinutes)m")
+                                Text(String(localized: "\(item.grownCount) · \(item.focusedMinutes)m"))
                                     .font(.caption.monospacedDigit().weight(.medium))
                                     .foregroundStyle(GroveTheme.inkMuted)
                             }
@@ -394,17 +410,19 @@ struct StatsView: View {
 
     private func axisLabel(_ date: Date) -> String {
         let f = DateFormatter()
-        f.locale = Locale(identifier: "en_US_POSIX")
+        f.locale = .autoupdatingCurrent
         switch range {
         case .week:
-            f.dateFormat = "EEE"
-            return String(f.string(from: date).prefix(1))
+            f.setLocalizedDateFormatFromTemplate("EEE")
+            let s = f.string(from: date)
+            return String(s.prefix(1))
         case .month:
-            f.dateFormat = "d"
+            f.setLocalizedDateFormatFromTemplate("d")
             return f.string(from: date)
         case .year:
-            f.dateFormat = "MMM"
-            return String(f.string(from: date).prefix(1))
+            f.setLocalizedDateFormatFromTemplate("MMM")
+            let s = f.string(from: date)
+            return String(s.prefix(1))
         }
     }
 }
