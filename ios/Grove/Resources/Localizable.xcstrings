@@ -1,2044 +1,2197 @@
 {
-  "sourceLanguage" : "en",
-  "strings" : {
-    "%@" : {},
-    "%@ %lld trees" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%@ %lld trees"
+  "sourceLanguage": "en",
+  "strings": {
+    "%@": {},
+    "%@ %lld trees": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ %lld trees"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%@ %lld 棵树"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ %lld 棵树"
           }
         }
       }
     },
-    "%@ grown · %@ wilted · %@m" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "%1$@ grown · %2$@ wilted · %3$@m"
+    "%@ grown · %@ wilted · %@m": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "new",
+            "value": "%1$@ grown · %2$@ wilted · %3$@m"
           }
         }
       }
     },
-    "%@ trees · newest on top" : {},
-    "%@s" : {},
-    "%lld grown · %lld wilted · %lldm" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%lld grown · %lld wilted · %lldm"
+    "%@ trees · newest on top": {},
+    "%@s": {},
+    "%lld grown · %lld wilted · %lldm": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld grown · %lld wilted · %lldm"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%lld 棵长成 · %lld 棵枯萎 · %lld 分钟"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld 棵长成 · %lld 棵枯萎 · %lld 分钟"
           }
         }
       }
     },
-    "%lld min focus · planted in your Grove" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%lld min focus · planted in your Grove"
+    "%lld min focus · planted in your Grove": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld min focus · planted in your Grove"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%lld 分钟专注 · 已种进你的 Grove"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld 分钟专注 · 已种进你的 Grove"
           }
         }
       }
     },
-    "%lld trees · newest on top" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%lld trees · newest on top"
+    "%lld trees · newest on top": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld trees · newest on top"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%lld 棵树 · 最新在上"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld 棵树 · 最新在上"
           }
         }
       }
     },
-    "%lld · %lldm" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%lld · %lldm"
+    "%lld · %lldm": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld · %lldm"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%lld · %lld 分钟"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld · %lld 分钟"
           }
         }
       }
     },
-    "%lldm" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%lldm"
+    "%lldm": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lldm"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%lld 分钟"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld 分钟"
           }
         }
       }
     },
-    "%llds" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%llds"
+    "%llds": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%llds"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%lld 秒"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld 秒"
           }
         }
       }
     },
-    "About" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "About"
+    "About": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "About"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "关于"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "关于"
           }
         }
       }
     },
-    "All tree species" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "All tree species"
+    "All tree species": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "All tree species"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "全部树种"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "全部树种"
           }
         }
       }
     },
-    "Baobab" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Baobab"
+    "Baobab": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Baobab"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "猴面包树"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "猴面包树"
           }
         }
       }
     },
-    "Buy once. Yours forever." : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Buy once. Yours forever."
+    "Buy once. Yours forever.": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Buy once. Yours forever."
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "一次买断，永久拥有。"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "一次买断，永久拥有。"
           }
         }
       }
     },
-    "Cancel" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Cancel"
+    "Cancel": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cancel"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "取消"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "取消"
           }
         }
       }
     },
-    "Changes" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Changes"
+    "Changes": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Changes"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "变更"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "变更"
           }
         }
       }
     },
-    "Check your connection and try again." : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Check your connection and try again."
+    "Check your connection and try again.": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Check your connection and try again."
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "请检查网络后重试。"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "请检查网络后重试。"
           }
         }
       }
     },
-    "Children" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Children"
+    "Children": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Children"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "儿童"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "儿童"
           }
         }
       }
     },
-    "Clear" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Clear"
+    "Clear": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Clear"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "清除"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "清除"
           }
         }
       }
     },
-    "Close" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Close"
+    "Close": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Close"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "关闭"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "关闭"
           }
         }
       }
     },
-    "Come back — wilting in %@s" : {},
-    "Come back — wilting in %llds" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Come back — wilting in %llds"
+    "Come back — wilting in %@s": {},
+    "Come back — wilting in %llds": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Come back — wilting in %llds"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "快回来 — %lld 秒后枯萎"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "快回来 — %lld 秒后枯萎"
           }
         }
       }
     },
-    "Contact" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Contact"
+    "Contact": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Contact"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "联系"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "联系"
           }
         }
       }
     },
-    "Daily focus" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Daily focus"
+    "Daily focus": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Daily focus"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "每日专注"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "每日专注"
           }
         }
       }
     },
-    "Data we do not collect" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Data we do not collect"
+    "Data we do not collect": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Data we do not collect"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "我们不收集的数据"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "我们不收集的数据"
           }
         }
       }
     },
-    "Data we store on your device" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Data we store on your device"
+    "Data we store on your device": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Data we store on your device"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "我们在你设备上存储的数据"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "我们在你设备上存储的数据"
           }
         }
       }
     },
-    "Day" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Day"
+    "Day": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Day"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "日"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "日"
           }
         }
       }
     },
-    "Drag the knob · 1–90 min" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Drag the knob · 1–90 min"
+    "Drag the knob · 1–90 min": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Drag the knob · 1–90 min"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "拖动旋钮 · 1–90 分钟"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "拖动旋钮 · 1–90 分钟"
           }
         }
       }
     },
-    "Earlier" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Earlier"
+    "Earlier": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Earlier"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "更早"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "更早"
           }
         }
       }
     },
-    "Earlier week" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Earlier week"
+    "Earlier week": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Earlier week"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "上一周"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "上一周"
           }
         }
       }
     },
-    "Focus" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Focus"
+    "Focus": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Focus"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "专注"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "专注"
           }
         }
       }
     },
-    "Focus duration" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Focus duration"
+    "Focus duration": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Focus duration"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "专注时长"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "专注时长"
           }
         }
       }
     },
-    "Focus sessions (time, tree species, tags, grown or wilted), your settings (default duration, leave-grace seconds), and whether you unlocked Lifetime are saved locally with Apple’s on-device storage (SwiftData / similar). This data stays on your device unless you back up or transfer the device with your own Apple tools." : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Focus sessions (time, tree species, tags, grown or wilted), your settings (default duration, leave-grace seconds), and whether you unlocked Lifetime are saved locally with Apple’s on-device storage (SwiftData / similar). This data stays on your device unless you back up or transfer the device with your own Apple tools."
+    "Focus sessions (time, tree species, tags, grown or wilted), your settings (default duration, leave-grace seconds), and whether you unlocked Lifetime are saved locally with Apple’s on-device storage (SwiftData / similar). This data stays on your device unless you back up or transfer the device with your own Apple tools.": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Focus sessions (time, tree species, tags, grown or wilted), your settings (default duration, leave-grace seconds), and whether you unlocked Lifetime are saved locally with Apple’s on-device storage (SwiftData / similar). This data stays on your device unless you back up or transfer the device with your own Apple tools."
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "专注记录（时长、树种、标签、已长成或已枯萎）、你的设置（默认时长、离开宽限秒数），以及你是否已解锁终身版，都通过 Apple 的设备端存储（SwiftData 等）保存在本地。除非你使用 Apple 自己的工具备份或迁移设备，否则这些数据只会留在你的设备上。"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "专注记录（时长、树种、标签、已长成或已枯萎）、你的设置（默认时长、离开宽限秒数），以及你是否已解锁终身版，都通过 Apple 的设备端存储（SwiftData 等）保存在本地。除非你使用 Apple 自己的工具备份或迁移设备，否则这些数据只会留在你的设备上。"
           }
         }
       }
     },
-    "Free stats cover the last 7 days. Unlock Month & Year charts, full history, and every tree species." : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Free stats cover the last 7 days. Unlock Month & Year charts, full history, and every tree species."
+    "Free stats cover the last 7 days. Unlock Month & Year charts, full history, and every tree species.": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Free stats cover the last 7 days. Unlock Month & Year charts, full history, and every tree species."
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "免费统计覆盖最近 7 天。解锁月度与年度图表、完整历史，以及全部树种。"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "免费统计覆盖最近 7 天。解锁月度与年度图表、完整历史，以及全部树种。"
           }
         }
       }
     },
-    "Fully grown" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Fully grown"
+    "Fully grown": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fully grown"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "完全长成"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "完全长成"
           }
         }
       }
     },
-    "Grove" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Grove"
+    "Grove": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Grove"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Grove"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Grove"
           }
         }
       },
-      "shouldTranslate" : false
+      "shouldTranslate": false
     },
-    "Grove does not target children for data collection. The app does not knowingly collect personal information from children." : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Grove does not target children for data collection. The app does not knowingly collect personal information from children."
+    "Grove does not target children for data collection. The app does not knowingly collect personal information from children.": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Grove does not target children for data collection. The app does not knowingly collect personal information from children."
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Grove 不以儿童为对象收集数据。本 App 不会有意收集儿童的个人信息。"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Grove 不以儿童为对象收集数据。本 App 不会有意收集儿童的个人信息。"
           }
         }
       }
     },
-    "Grove is a focus timer that grows a tree while you stay present. We designed Grove to work without an account and without tracking you." : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Grove is a focus timer that grows a tree while you stay present. We designed Grove to work without an account and without tracking you."
+    "Grove is a focus timer that grows a tree while you stay present. We designed Grove to work without an account and without tracking you.": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Grove is a focus timer that grows a tree while you stay present. We designed Grove to work without an account and without tracking you."
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Grove 是一款专注计时器：你保持专注，树就会一点点长大。我们让 Grove 无需账号即可使用，也不会追踪你。"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Grove 是一款专注计时器：你保持专注，树就会一点点长大。我们让 Grove 无需账号即可使用，也不会追踪你。"
           }
         }
       }
     },
-    "Growing" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Growing"
+    "Growing": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Growing"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "生长中"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "生长中"
           }
         }
       }
     },
-    "Grown" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Grown"
+    "Grown": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Grown"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "长成"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "长成"
           }
         }
       }
     },
-    "Grown trees in this range will show up here by species." : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Grown trees in this range will show up here by species."
+    "Grown trees in this range will show up here by species.": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Grown trees in this range will show up here by species."
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "这段时间长成的树会按树种显示在这里。"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "这段时间长成的树会按树种显示在这里。"
           }
         }
       }
     },
-    "Grown vs wilted" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Grown vs wilted"
+    "Grown vs wilted": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Grown vs wilted"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "长成 vs 枯萎"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "长成 vs 枯萎"
           }
         }
       }
     },
-    "Grown · %@" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Grown · %@"
+    "Grown · %@": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Grown · %@"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "长成 · %@"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "长成 · %@"
           }
         }
       }
     },
-    "Grown — finished focus" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Grown — finished focus"
+    "Grown — finished focus": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Grown — finished focus"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "长成 — 完成专注"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "长成 — 完成专注"
           }
         }
       }
     },
-    "How long you can leave the app before the tree wilts." : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "How long you can leave the app before the tree wilts."
+    "How long you can leave the app before the tree wilts.": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "How long you can leave the app before the tree wilts."
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "离开 App 多久后小树会枯萎。"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "离开 App 多久后小树会枯萎。"
           }
         }
       }
     },
-    "If this policy changes, we will update the “Last updated” date in the app. Continued use after an update means you accept the revised policy." : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "If this policy changes, we will update the “Last updated” date in the app. Continued use after an update means you accept the revised policy."
+    "If this policy changes, we will update the “Last updated” date in the app. Continued use after an update means you accept the revised policy.": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "If this policy changes, we will update the “Last updated” date in the app. Continued use after an update means you accept the revised policy."
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "如果本政策有变更，我们会在 App 内更新“最后更新”日期。更新后继续使用即表示你接受修订后的政策。"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "如果本政策有变更，我们会在 App 内更新“最后更新”日期。更新后继续使用即表示你接受修订后的政策。"
           }
         }
       }
     },
-    "If you allow notifications, Grove may schedule a local alert when a focus session is due to finish. Notification permission is optional and managed in iOS Settings." : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "If you allow notifications, Grove may schedule a local alert when a focus session is due to finish. Notification permission is optional and managed in iOS Settings."
+    "If you allow notifications, Grove may schedule a local alert when a focus session is due to finish. Notification permission is optional and managed in iOS Settings.": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "If you allow notifications, Grove may schedule a local alert when a focus session is due to finish. Notification permission is optional and managed in iOS Settings."
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "如果你允许通知，Grove 会在专注计时即将结束时安排一条本地提醒。通知权限是可选的，可在 iOS 设置中管理。"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "如果你允许通知，Grove 会在专注计时即将结束时安排一条本地提醒。通知权限是可选的，可在 iOS 设置中管理。"
           }
         }
       }
     },
-    "Last updated: November 26, 2026" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Last updated: November 26, 2026"
+    "Last updated: November 26, 2026": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Last updated: November 26, 2026"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "最后更新：2026年11月26日"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "最后更新：2026年11月26日"
           }
         }
       }
     },
-    "Later" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Later"
+    "Later": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Later"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "更晚"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "更晚"
           }
         }
       }
     },
-    "Later week" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Later week"
+    "Later week": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Later week"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "下一周"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "下一周"
           }
         }
       }
     },
-    "Leafing out" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Leafing out"
+    "Leafing out": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Leafing out"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "抽叶"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "抽叶"
           }
         }
       }
     },
-    "Leave grace" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Leave grace"
+    "Leave grace": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Leave grace"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "离开宽限"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "离开宽限"
           }
         }
       }
     },
-    "Lifetime" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Lifetime"
+    "Lifetime": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lifetime"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "终身版"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "终身版"
           }
         }
       }
     },
-    "Lifetime product unavailable. Check StoreKit config." : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Lifetime product unavailable. Check StoreKit config."
+    "Lifetime product unavailable. Check StoreKit config.": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lifetime product unavailable. Check StoreKit config."
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "无法获取终身版商品。请检查 StoreKit 配置。"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "无法获取终身版商品。请检查 StoreKit 配置。"
           }
         }
       }
     },
-    "Lifetime unlock is processed by Apple through StoreKit / App Store. Apple handles payment details under Apple’s privacy policy. Grove only receives an entitlement signal that you own the product so locked trees and Month/Year stats can unlock on this device (and restore on your other devices signed into the same Apple ID)." : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Lifetime unlock is processed by Apple through StoreKit / App Store. Apple handles payment details under Apple’s privacy policy. Grove only receives an entitlement signal that you own the product so locked trees and Month/Year stats can unlock on this device (and restore on your other devices signed into the same Apple ID)."
+    "Lifetime unlock is processed by Apple through StoreKit / App Store. Apple handles payment details under Apple’s privacy policy. Grove only receives an entitlement signal that you own the product so locked trees and Month/Year stats can unlock on this device (and restore on your other devices signed into the same Apple ID).": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lifetime unlock is processed by Apple through StoreKit / App Store. Apple handles payment details under Apple’s privacy policy. Grove only receives an entitlement signal that you own the product so locked trees and Month/Year stats can unlock on this device (and restore on your other devices signed into the same Apple ID)."
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "终身版解锁由 Apple 通过 StoreKit / App Store 处理。支付信息由 Apple 依据其隐私政策处理。Grove 只会收到“你已拥有该商品”的权益信号，用于在本设备上解锁锁定的树种以及月、年统计（并可在登录同一 Apple ID 的其他设备上恢复）。"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "终身版解锁由 Apple 通过 StoreKit / App Store 处理。支付信息由 Apple 依据其隐私政策处理。Grove 只会收到“你已拥有该商品”的权益信号，用于在本设备上解锁锁定的树种以及月、年统计（并可在登录同一 Apple ID 的其他设备上恢复）。"
           }
         }
       }
     },
-    "Lifetime unlocked" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Lifetime unlocked"
+    "Lifetime unlocked": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lifetime unlocked"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "已解锁终身版"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "已解锁终身版"
           }
         }
       }
     },
-    "Lifetime unlocked — full history" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Lifetime unlocked — full history"
+    "Lifetime unlocked — full history": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lifetime unlocked — full history"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "已解锁终身版 — 完整历史"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "已解锁终身版 — 完整历史"
           }
         }
       }
     },
-    "Maple" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Maple"
+    "Maple": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Maple"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "枫树"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "枫树"
           }
         }
       }
     },
-    "Minutes" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Minutes"
+    "Minutes": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Minutes"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "分钟"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "分钟"
           }
         }
       }
     },
-    "Month" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Month"
+    "Month": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Month"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "月"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "月"
           }
         }
       }
     },
-    "Month & Year stats" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Month & Year stats"
+    "Month & Year stats": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Month & Year stats"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "月度与年度统计"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "月度与年度统计"
           }
         }
       }
     },
-    "Monthly focus" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Monthly focus"
+    "Monthly focus": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Monthly focus"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "每月专注"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "每月专注"
           }
         }
       }
     },
-    "My Grove" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "My Grove"
+    "My Grove": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "My Grove"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "我的 Grove"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "我的 Grove"
           }
         }
       }
     },
-    "No ads, no account" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "No ads, no account"
+    "No ads, no account": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No ads, no account"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "无广告、无需账号"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "无广告、无需账号"
           }
         }
       }
     },
-    "No grown trees in this range yet.\nFinish a session to see the chart." : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "No grown trees in this range yet.\nFinish a session to see the chart."
+    "No grown trees in this range yet.\nFinish a session to see the chart.": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No grown trees in this range yet.\nFinish a session to see the chart."
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "这段时间还没有长成的树。\n完成一次专注后即可看到图表。"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "这段时间还没有长成的树。\n完成一次专注后即可看到图表。"
           }
         }
       }
     },
-    "No lifetime purchase found." : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "No lifetime purchase found."
+    "No lifetime purchase found.": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No lifetime purchase found."
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "未找到终身版购买记录。"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "未找到终身版购买记录。"
           }
         }
       }
     },
-    "No subscription. Unlock every tree species and full focus history." : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "No subscription. Unlock every tree species and full focus history."
+    "No subscription. Unlock every tree species and full focus history.": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No subscription. Unlock every tree species and full focus history."
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "无订阅。解锁全部树种与完整专注历史。"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "无订阅。解锁全部树种与完整专注历史。"
           }
         }
       }
     },
-    "No trees planted this day." : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "No trees planted this day."
+    "No trees planted this day.": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No trees planted this day."
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "这一天还没有种树。"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "这一天还没有种树。"
           }
         }
       }
     },
-    "Notifications" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Notifications"
+    "Notifications": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Notifications"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "通知"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "通知"
           }
         }
       }
     },
-    "Oak" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Oak"
+    "Oak": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Oak"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "橡树"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "橡树"
           }
         }
       }
     },
-    "Other" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Other"
+    "Other": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Other"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "其他"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "其他"
           }
         }
       }
     },
-    "Overview" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Overview"
+    "Overview": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Overview"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "概述"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "概述"
           }
         }
       }
     },
-    "Pine" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pine"
+    "Pine": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pine"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "松树"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "松树"
           }
         }
       }
     },
-    "Plant" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Plant"
+    "Plant": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Plant"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "种植"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "种植"
           }
         }
       }
     },
-    "Plant & Focus" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Plant & Focus"
+    "Plant & Focus": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Plant & Focus"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "种植并专注"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "种植并专注"
           }
         }
       }
     },
-    "Plant a focus session and a tree will appear in today’s plot." : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Plant a focus session and a tree will appear in today’s plot."
+    "Plant a focus session and a tree will appear in today’s plot.": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Plant a focus session and a tree will appear in today’s plot."
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "开始一次专注，今天的畦里就会长出一棵树。"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "开始一次专注，今天的畦里就会长出一棵树。"
           }
         }
       }
     },
-    "Plant another" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Plant another"
+    "Plant another": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Plant another"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "再种一棵"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "再种一棵"
           }
         }
       }
     },
-    "Price unavailable" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Price unavailable"
+    "Price unavailable": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Price unavailable"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "暂时无法获取价格"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "暂时无法获取价格"
           }
         }
       }
     },
-    "Privacy" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Privacy"
+    "Privacy": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Privacy"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "隐私"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "隐私"
           }
         }
       }
     },
-    "Privacy Policy" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Privacy Policy"
+    "Privacy Policy": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Privacy Policy"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "隐私政策"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "隐私政策"
           }
         }
       }
     },
-    "Purchase could not be verified." : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Purchase could not be verified."
+    "Purchase could not be verified.": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Purchase could not be verified."
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "无法验证购买。"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "无法验证购买。"
           }
         }
       }
     },
-    "Purchases" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Purchases"
+    "Purchases": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Purchases"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "购买"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "购买"
           }
         }
       }
     },
-    "Purchases restored." : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Purchases restored."
+    "Purchases restored.": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Purchases restored."
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "购买已恢复。"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "购买已恢复。"
           }
         }
       }
     },
-    "Questions about this policy: use the support email listed on Grove’s App Store product page." : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Questions about this policy: use the support email listed on Grove’s App Store product page."
+    "Questions about this policy: use the support email listed on Grove’s App Store product page.": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Questions about this policy: use the support email listed on Grove’s App Store product page."
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "对本政策有疑问：请使用 Grove 在 App Store 产品页上列出的支持邮箱。"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "对本政策有疑问：请使用 Grove 在 App Store 产品页上列出的支持邮箱。"
           }
         }
       }
     },
-    "Reading" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Reading"
+    "Reading": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reading"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "阅读"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "阅读"
           }
         }
       }
     },
-    "Restore Purchases" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Restore Purchases"
+    "Restore Purchases": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Restore Purchases"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "恢复购买"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "恢复购买"
           }
         }
       }
     },
-    "Sakura" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Sakura"
+    "Sakura": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sakura"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "樱花"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "樱花"
           }
         }
       }
     },
-    "Scroll inside the bed, or tap for the full list" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Scroll inside the bed, or tap for the full list"
+    "Scroll inside the bed, or tap for the full list": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Scroll inside the bed, or tap for the full list"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "可在畦内滚动，或点开查看完整列表"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "可在畦内滚动，或点开查看完整列表"
           }
         }
       }
     },
-    "Settings" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Settings"
+    "Settings": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Settings"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "设置"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "设置"
           }
         }
       }
     },
-    "Sprouting" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Sprouting"
+    "Sprouting": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sprouting"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "发芽"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "发芽"
           }
         }
       }
     },
-    "Stats" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Stats"
+    "Stats": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Stats"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "统计"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "统计"
           }
         }
       }
     },
-    "Stay rate" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Stay rate"
+    "Stay rate": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Stay rate"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "坚持率"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "坚持率"
           }
         }
       }
     },
-    "Streak" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Streak"
+    "Streak": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Streak"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "连续"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "连续"
           }
         }
       }
     },
-    "Study" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Study"
+    "Study": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Study"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "学习"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "学习"
           }
         }
       }
     },
-    "Tap a day to see every tree" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tap a day to see every tree"
+    "Tap a day to see every tree": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tap a day to see every tree"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "点某一天查看全部树木"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "点某一天查看全部树木"
           }
         }
       }
     },
-    "Tap for details" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tap for details"
+    "Tap for details": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tap for details"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "点按查看详情"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "点按查看详情"
           }
         }
       }
     },
-    "This bed is empty" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "This bed is empty"
+    "This bed is empty": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "This bed is empty"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "这畦还是空的"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "这畦还是空的"
           }
         }
       }
     },
-    "This week" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "This week"
+    "This week": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "This week"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "本周"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "本周"
           }
         }
       }
     },
-    "Tree" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tree"
+    "Tree": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tree"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "树"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "树"
           }
         }
       }
     },
-    "Tree grows as time passes — stay until it’s fully grown" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tree grows as time passes — stay until it’s fully grown"
+    "Tree grows as time passes — stay until it’s fully grown": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tree grows as time passes — stay until it’s fully grown"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "小树随时间生长 — 坚持到完全长成"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "小树随时间生长 — 坚持到完全长成"
           }
         }
       }
     },
-    "Trees by species" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Trees by species"
+    "Trees by species": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Trees by species"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "按树种统计"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "按树种统计"
           }
         }
       }
     },
-    "Try again" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Try again"
+    "Try again": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Try again"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "再试一次"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "再试一次"
           }
         }
       }
     },
-    "Unlock" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Unlock"
+    "Unlock": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Unlock"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "解锁"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "解锁"
           }
         }
       }
     },
-    "Unlock Lifetime" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Unlock Lifetime"
+    "Unlock Lifetime": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Unlock Lifetime"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "解锁终身版"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "解锁终身版"
           }
         }
       }
     },
-    "Version" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Version"
+    "Version": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Version"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "版本"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "版本"
           }
         }
       }
     },
-    "View in Grove" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "View in Grove"
+    "View in Grove": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "View in Grove"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "在 Grove 中查看"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "在 Grove 中查看"
           }
         }
       }
     },
-    "We do not run analytics SDKs, do not use advertising identifiers, do not sell personal data, and do not require an account or email. Grove does not send your focus history to our servers because we do not operate a Grove cloud for this app." : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "We do not run analytics SDKs, do not use advertising identifiers, do not sell personal data, and do not require an account or email. Grove does not send your focus history to our servers because we do not operate a Grove cloud for this app."
+    "We do not run analytics SDKs, do not use advertising identifiers, do not sell personal data, and do not require an account or email. Grove does not send your focus history to our servers because we do not operate a Grove cloud for this app.": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "We do not run analytics SDKs, do not use advertising identifiers, do not sell personal data, and do not require an account or email. Grove does not send your focus history to our servers because we do not operate a Grove cloud for this app."
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "我们不使用任何分析 SDK，不使用广告标识符，不出售个人数据，也不要求账号或邮箱。Grove 不会把你的专注记录发送到我们的服务器，因为这款 App 没有运营任何 Grove 云服务。"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "我们不使用任何分析 SDK，不使用广告标识符，不出售个人数据，也不要求账号或邮箱。Grove 不会把你的专注记录发送到我们的服务器，因为这款 App 没有运营任何 Grove 云服务。"
           }
         }
       }
     },
-    "Week" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Week"
+    "Week": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Week"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "周"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "周"
           }
         }
       }
     },
-    "While you focus, this pot grows. Finish → Grove. Leave → it wilts." : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "While you focus, this pot grows. Finish → Grove. Leave → it wilts."
+    "While you focus, this pot grows. Finish → Grove. Leave → it wilts.": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "While you focus, this pot grows. Finish → Grove. Leave → it wilts."
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "专注时小树会生长。完成 → 进入 Grove。离开太久 → 枯萎。"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "专注时小树会生长。完成 → 进入 Grove。离开太久 → 枯萎。"
           }
         }
       }
     },
-    "Willow" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Willow"
+    "Willow": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Willow"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "柳树"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "柳树"
           }
         }
       }
     },
-    "Wilted" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Wilted"
+    "Wilted": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wilted"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "已枯萎"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "已枯萎"
           }
         }
       }
     },
-    "Wilted · %@" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Wilted · %@"
+    "Wilted · %@": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wilted · %@"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "枯萎 · %@"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "枯萎 · %@"
           }
         }
       }
     },
-    "Wilted — left early" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Wilted — left early"
+    "Wilted — left early": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wilted — left early"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "枯萎 — 中途离开"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "枯萎 — 中途离开"
           }
         }
       }
     },
-    "Work" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Work"
+    "Work": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Work"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "工作"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "工作"
           }
         }
       }
     },
-    "Year" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Year"
+    "Year": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Year"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "年"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "年"
           }
         }
       }
     },
-    "You left too long — this tree wilted in your Grove" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "You left too long — this tree wilted in your Grove"
+    "You left too long — this tree wilted in your Grove": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "You left too long — this tree wilted in your Grove"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "离开太久 — 这棵树在 Grove 里枯萎了"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "离开太久 — 这棵树在 Grove 里枯萎了"
           }
         }
       }
     },
-    "Your %lld-minute tree finished growing — see it in Grove." : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Your %lld-minute tree finished growing — see it in Grove."
+    "Your %lld-minute tree finished growing — see it in Grove.": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Your %lld-minute tree finished growing — see it in Grove."
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "你的 %lld 分钟专注树已长成 — 去 Grove 看看吧。"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "你的 %lld 分钟专注树已长成 — 去 Grove 看看吧。"
           }
         }
       }
     },
-    "day" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "day"
+    "day": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "day"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "天"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "天"
           }
         }
       }
     },
-    "days" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "days"
+    "days": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "days"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "天"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "天"
           }
         }
       }
     },
-    "empty" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "empty"
+    "empty": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "empty"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "空"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "空"
           }
         }
       }
     },
-    "min" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "min"
+    "min": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "min"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "分钟"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "分钟"
           }
         }
       }
     },
-    "minutes" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "minutes"
+    "minutes": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "minutes"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "分钟"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "分钟"
           }
         }
       }
     },
-    "trees" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "trees"
+    "trees": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "trees"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "棵树"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "棵树"
+          }
+        }
+      }
+    },
+    "Orange": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Orange"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "橘子树"
+          }
+        }
+      }
+    },
+    "Lemon": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lemon"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "柠檬树"
+          }
+        }
+      }
+    },
+    "Ginkgo": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ginkgo"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "银杏"
+          }
+        }
+      }
+    },
+    "Oranges ripened on your tree": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Oranges ripened on your tree"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "树上结出了橘子"
+          }
+        }
+      }
+    },
+    "Lemons ripened on your tree": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lemons ripened on your tree"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "树上结出了柠檬"
+          }
+        }
+      }
+    },
+    "Rose": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rose"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "玫瑰"
+          }
+        }
+      }
+    },
+    "Owl": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Owl"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "猫头鹰树"
+          }
+        }
+      }
+    },
+    "Fox": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fox"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "狐狸树"
+          }
+        }
+      }
+    },
+    "Peony": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Peony"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "牡丹"
           }
         }
       }
     }
   },
-  "version" : "1.0"
+  "version": "1.0"
 }

@@ -37,6 +37,12 @@
 | 15 | String Catalog 英 / 简中 | **完成** | `Localizable.xcstrings` + `InfoPlist.xcstrings`；跟随系统语言 |
 | 16 | ASC 商店本地化 | 待办 | Connect 里为简中等地区加截图/描述（可后做） |
 
+## P1c · 树种扩展（进行中）
+
+| # | 项 | 状态 | 说明 |
+|---|----|------|------|
+| 17 | 橘子 / 柠檬 / 银杏 + 结果实动画 | **完成** | 柑橘成熟结实；完成卡 fruitBloom；柳/猴面包补剪影 |
+
 ## P2 · 可放 1.1+
 
 - 自定义 Tag / 筛选 / Tag 统计
@@ -44,6 +50,7 @@
 - 更多语言（日/繁中/韩等，在 String Catalog 加列即可）
 - Live Activity
 - SwiftData 版本化迁移
+- 更多结果实树种（苹果等） / 枯萎落果动画
 
 ## 完成定义（可点 Submit）
 

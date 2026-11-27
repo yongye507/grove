@@ -7,12 +7,33 @@ struct SessionOutcomeCard: View {
     var onViewGrove: () -> Void
 
     @State private var appeared = false
+    @State private var fruitBloom = 0.0
+
+    private var species: TreeSpecies? {
+        TreeCatalog.species(id: outcome.speciesId)
+    }
 
     private var speciesName: String {
-        TreeCatalog.species(id: outcome.speciesId)?.localizedName ?? String(localized: "Tree")
+        species?.localizedName ?? String(localized: "Tree")
     }
 
     private var isGrown: Bool { outcome.kind == .grown }
+
+    private var outcomeSubtitle: String {
+        if !isGrown {
+            return String(localized: "You left too long — this tree wilted in your Grove")
+        }
+        switch outcome.speciesId {
+        case "orange":
+            return String(localized: "Oranges ripened on your tree")
+        case "lemon":
+            return String(localized: "Lemons ripened on your tree")
+        default:
+            return String(
+                localized: "\(outcome.durationSec / 60) min focus · planted in your Grove"
+            )
+        }
+    }
 
     var body: some View {
         ZStack {
@@ -23,23 +44,24 @@ struct SessionOutcomeCard: View {
             VStack(spacing: 0) {
                 Spacer(minLength: 16)
 
-                VStack(spacing: 12) {
+                VStack(spacing: 10) {
                     Text(isGrown ? String(localized: "Fully grown") : String(localized: "Wilted"))
                         .font(.system(.title2, design: .serif).weight(.semibold))
                         .foregroundStyle(GroveTheme.ink)
+                        .padding(.bottom, 2)
 
-                    // Fixed well — no scaleEffect (that escaped the clip and covered the title).
+                    // Taller well so canopy tips aren't shaved; clip only the art bounds.
                     TreeArt(
                         speciesId: outcome.speciesId,
                         progress: isGrown ? 1 : 0.55,
                         wilted: !isGrown,
-                        size: .hero
+                        size: .hero,
+                        fruitBloom: isGrown ? fruitBloom : 0
                     )
-                    .frame(width: 150, height: 158)
+                    .frame(width: 168, height: 188)
                     .frame(maxWidth: .infinity)
                     .compositingGroup()
                     .clipped()
-                    .padding(.top, 4)
                     .scaleEffect(appeared ? 1 : 0.92)
                     .opacity(appeared ? 1 : 0.85)
 
@@ -48,21 +70,13 @@ struct SessionOutcomeCard: View {
                             .font(.system(.title3, design: .serif).weight(.medium))
                             .foregroundStyle(GroveTheme.ink)
 
-                        Text(
-                            isGrown
-                                ? String(
-                                    localized: "\(outcome.durationSec / 60) min focus · planted in your Grove"
-                                  )
-                                : String(
-                                    localized: "You left too long — this tree wilted in your Grove"
-                                  )
-                        )
+                        Text(outcomeSubtitle)
                         .font(.subheadline)
                         .foregroundStyle(GroveTheme.inkMuted)
                         .multilineTextAlignment(.center)
                         .fixedSize(horizontal: false, vertical: true)
                     }
-                    .padding(.top, 4)
+                    .padding(.top, 2)
 
                     VStack(spacing: 10) {
                         Button(action: onViewGrove) {
@@ -113,6 +127,13 @@ struct SessionOutcomeCard: View {
             }
             withAnimation(.spring(response: 0.48, dampingFraction: 0.78)) {
                 appeared = true
+            }
+            if isGrown, species?.bearsFruit == true {
+                withAnimation(.spring(response: 0.55, dampingFraction: 0.62).delay(0.28)) {
+                    fruitBloom = 1
+                }
+            } else if isGrown {
+                fruitBloom = 1
             }
         }
         .accessibilityAddTraits(.isModal)

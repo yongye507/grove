@@ -304,15 +304,16 @@ struct PlantingView: View {
         return VStack(spacing: 0) {
             Spacer(minLength: 12)
 
-            // Tree above timer so a tall canopy never paints over the digits.
+            // Tree above timer. Clip only below the art so digits stay clean;
+            // TreeArt itself is allowed to use the full frame height (no fake top gap).
             TreeGrowthView(
                 progress: progress,
                 wilted: wiltVisual,
                 speciesName: TreeCatalog.species(id: activeSpecies)?.localizedName ?? String(localized: "Tree"),
                 speciesId: activeSpecies
             )
-            .frame(maxWidth: 260)
-            .frame(height: 250)
+            .frame(maxWidth: 280)
+            .frame(height: 268)
             .frame(maxWidth: .infinity)
             .compositingGroup()
             .clipped()
@@ -322,7 +323,7 @@ struct PlantingView: View {
                 .monospacedDigit()
                 .foregroundStyle(GroveTheme.ink.opacity(wiltVisual ? 0.45 : 0.7))
                 .frame(maxWidth: .infinity)
-                .padding(.top, 10)
+                .padding(.top, 8)
                 .animation(.easeInOut(duration: 0.35), value: wiltVisual)
 
             VStack(spacing: 6) {
